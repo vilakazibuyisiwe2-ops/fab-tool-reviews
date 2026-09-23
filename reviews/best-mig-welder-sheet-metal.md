@@ -15,7 +15,7 @@ If you're working with thin sheet metal, not every MIG welder is built for the j
 
 **Best Overalls for Welding - My #1 Pick:**
 I burn through cheap overalls. These FR cotton ones are flame resistant for life, washable, and have deep pockets for soapstone + caliper. This is what I wear in the workshop.
-👉 Check Best Overalls Price https://www.amazon.com/s?k=flame+resistant+overalls+welding&tag=smartfabricat-20
+👉 Check Best Overalls Price 
 
 ---
 *As an Amazon Associate I earn from qualifying purchases.*
@@ -33,11 +33,8 @@ I picked this because not everyone has R15,000 for a welder when you are still l
 
 **My honest note:** It's not for 10mm plate all day. But for sheet metal, auto body, small brackets, and practice? This is the one that gets you started without debt.
 
-👉 [Check Buyi's Budget Pick Price - Short Link](https://www.amazon.com/s?k=YESWELDER+135A+MIG+Welder+FLUX-135PRO&tag=smartfabricat-20)
+👉 [Check Buyi's Budget Pick Price 
 
-**Short link you can use on your site (with your handle):**
-`https://amzn.to/buyibudget?tag=smartfabricat-20`
-*To get your real amzn.to short link: Open the welder on Amazon > top bar SiteStripe > Get Link > Short Link — it will auto-add your smartfabricat-20.*
 
 ### How to choose a MIG welder for thin metal
 
