@@ -5,7 +5,7 @@ Honest reviews of welding equipment, fabrication tools, and engineering software
 This repository contains the source files for the **Fab & Tool Reviews** blog, hosted live via GitHub Pages.
 
 ## 🌐 Live Website
-Check out the published site here: [Fab & Tool Reviews]({{ '/reviews/best-mig-welder-for-sheet-metal/' | relative_url }})
+Check out the published site here: [Fab & Tool Reviews]({{ '/reviews/best-welder-needs/' | relative_url }})
 
 ## 📂 Project Structure
 * `index.md`: The homepage covering recent tool breakdowns and site overview.
