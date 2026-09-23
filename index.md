@@ -18,3 +18,7 @@ I test and research welding equipment, fabrication tools, and engineering softwa
 - **CAD & Design Software** — budget-friendly options for small shops
 
 New posts go up regularly — check back or subscribe to the [RSS feed](/feed.xml).
+
+---
+
+*This site contains affiliate links, including as an Amazon Associate. I earn from qualifying purchases at no extra cost to you.*
