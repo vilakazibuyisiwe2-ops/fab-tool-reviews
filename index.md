@@ -11,7 +11,7 @@ I test and research welding equipment, fabrication tools, and engineering softwa
 
 Follow me for the latest reviews, updated frequently. Who knows? You might even catch a discount! 😁
 
-- [Best MIG Welders for Sheet Metal (2026)]({{ "/reviews/best-mig-welders-for-sheet-metal/" | relative_url }})
+- [Best MIG Welders for Sheet Metal (2026)]({{ "/reviews/best-mig-welder-sheet-metal/" | relative_url }})
 - [Safety Boots for Boilermakers — What Actually Lasts]({{ "/reviews/safety-boots-boilermaker-learner/" | relative_url }})
 
 ### 🔧 Boilermaker Tools I Use in My Workshop
