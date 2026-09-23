@@ -1,0 +1,33 @@
+---
+---
+$brand-color: #e8590c;
+$text-color: #22272e;
+$background-color: #f6f7f9;
+$grey-color: #6b7580;
+$grey-color-light: #d5d9de;
+$grey-color-dark: #3a424c;
+
+@import "minima";
+
+.site-header {
+  background: #1f2933;
+  border-top: 5px solid #e8590c;
+  border-bottom: 0;
+}
+.site-title, .site-title:visited { color: #fff; font-weight: 700; }
+.site-nav .page-link { color: #d5d9de; }
+.site-nav .page-link:hover { color: #ff922b; }
+
+a { color: #e8590c; }
+a:hover { color: #b8420a; }
+h1, h2, h3 { color: #1f2933; }
+.post-link { color: #1f2933; }
+
+.site-footer {
+  background: #1f2933;
+  color: #d5d9de;
+  margin-top: 40px;
+  padding-top: 30px;
+}
+.site-footer a { color: #ff922b; }
+.footer-heading { color: #fff; }
