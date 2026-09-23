@@ -39,7 +39,7 @@ After burning through 2 pairs, here's my cheat sheet:
 - **Breathable lining** — your feet sweat, and sweaty feet blister
 - **Replaceable insole** — this is non-negotiable for me now
 
-Here is an example of a good [![Steel-toe safety boot for boilermaker work]({{ "/assets/images/boot.jpeg" | relative_url }})](https://amzn.to/4AxZWx6).
+Here is an example of a good [![Steel-toe safety boot for boilermaker work]({{ site.baseurl }}/assets/images/boot.jpeg)](https://amzn.to/4AxZWx6).
 
 You don't need the most expensive brand. You need boots that let you forget about your feet.
 
