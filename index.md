@@ -9,7 +9,7 @@ I test and research welding equipment, fabrication tools, and engineering softwa
 
 ### Latest reviews
 
-- [Best MIG Welders for Sheet Metal (2026)](https://github.com/vilakazibuyisiwe2-ops/fab-tool-reviews/blob/main/reviews/best-mig-welder-sheet-metal)
+- [Best MIG Welders for Sheet Metal (2026)](/reviews/best-mig-welder-sheet-metal/)
 
 ### 🔧 Boilermaker Tools I Use in My Workshop
 
