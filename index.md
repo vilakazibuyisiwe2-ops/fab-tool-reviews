@@ -13,7 +13,7 @@ I test and research welding equipment, fabrication tools, and engineering softwa
 
 ### 🔧 Boilermaker Tools I Use in My Workshop
 
-**1. 300mm Digital Caliper for Cone Layouts** The 150mm is too small for frustums. I use this 300mm Kynup — waterproof, holds the reading so I can type straight into my calculator.
+**1. 300mm Digital Caliper for precise measurements** The 150mm is too small for frustums. I use this 300mm Kynup — waterproof, holds the reading so I can type straight into my calculator.
 👉 [Check Price on Amazon - Global Link](https://www.amazon.com/dp/B09KGHRKHY?tag=smartfabricat-20)
 
 **2. N2 Engineering Drawing Book** For N2 students - First-angle vs Third-angle explained properly.
