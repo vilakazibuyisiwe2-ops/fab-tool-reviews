@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 
-**Last updated:** [insert date]
+**Last updated:** 2026/09/23
 
 This Privacy Policy describes how Fab Tool Reviews collects, uses, and protects information when you visit our website.
 
