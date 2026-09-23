@@ -15,7 +15,7 @@ If you're working with thin sheet metal, not every MIG welder is built for the j
 
 **Best Overalls for Welding - My #1 Pick:**
 I burn through cheap overalls. These FR cotton ones are flame resistant for life, washable, and have deep pockets for soapstone + caliper. This is what I wear in the workshop.
-👉 Check Best [Overall Price](https://amzn.to/47ehDEg?tag=smartfabricat-20)
+👉 Check Best [Overall Price](https://amzn.to/47ehDEg)
 
 ---
 *As an Amazon Associate I earn from qualifying purchases.*
@@ -38,7 +38,7 @@ The ARCCAPTAIN MIG205MP is a 9-in-1: Pulse MIG, Flux Core, Plasma Cut, DC HF, Li
 
 **My honest note:** This isn't the machine for someone who welds twice a year. It's for the person who's serious enough that owning five separate tools has actually become the problem. If that's you, this collapses your toolbox into one machine that keeps up.
 
-👉 [Check ARCCAPTAIN's Current Price](https://amzn.to/4h8FVFB?tag=smartfabricat-20)
+👉 [Check ARCCAPTAIN's Current Price](https://amzn.to/4h8FVFB)
 
 ---
 
