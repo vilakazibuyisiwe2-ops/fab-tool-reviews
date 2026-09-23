@@ -1,0 +1,33 @@
+title: "Fab & Tool Reviews"
+description: "Honest reviews of welding equipment, fabrication tools, and engineering tech — from someone who actually uses this stuff."
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO / social defaults — jekyll-seo-tag uses these automatically
+author: "Buyisiwe Vilakazi"
+twitter:
+  username: ""
+social:
+  name: "Fab & Tool Reviews"
+
+collections:
+  reviews:
+    output: true
+    permalink: /reviews/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "reviews"
+    values:
+      layout: "page"
