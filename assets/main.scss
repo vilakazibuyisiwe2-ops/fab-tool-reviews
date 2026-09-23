@@ -15,8 +15,13 @@ $grey-color-dark: #3a424c;
   border-bottom: 0;
 }
 .site-title, .site-title:visited { color: #fff; font-weight: 700; }
-.site-nav .page-link { color: #d5d9de; }
-.site-nav .page-link:hover { color: #ff922b; }
+.site-nav a, .site-nav .page-link {
+  color: #fff !important;
+  font-weight: 600;
+  opacity: 1;
+}
+.site-nav { background: #1f2933; }
+.site-nav a:hover { color: #ff6a00 !important; }
 
 a { color: #e8590c; }
 a:hover { color: #b8420a; }
