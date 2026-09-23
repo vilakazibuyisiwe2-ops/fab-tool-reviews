@@ -15,32 +15,32 @@ If you're working with thin sheet metal, not every MIG welder is built for the j
 
 **Best Overalls for Welding - My #1 Pick:**
 I burn through cheap overalls. These FR cotton ones are flame resistant for life, washable, and have deep pockets for soapstone + caliper. This is what I wear in the workshop.
-👉 Check Best Overalls Price 
+👉 Check Best [Overall Price](https://amzn.to/47ehDEg?tag=smartfabricat-20)
 
 ---
 *As an Amazon Associate I earn from qualifying purchases.*
 
-## 2. Buyi — Best Budget Option
+## 2. The ARCCAPTAIN MIG205MP — When One Machine Needs to Solve Five Problems
 
-**Best for: Apprentices, N2 students, home garage, thin sheet under 2mm**
+**Best for: Fabricators tired of owning three half-broken machines instead of one good one**
 
-I picked this because not everyone has R15,000 for a welder when you are still learning. This is the one I recommend to my students — you can buy it from your stipend and it still welds thin sheet clean.
+**Why I'm putting this one first:**
 
-**Why it works for thin metal:**
-- Goes down to low amperage (below 30A) so you don't burn holes in 0.8mm sheet
-- Flux-core = no gas bottle rental — just plug into normal 110V wall socket
-- Light (easy to carry to site) and very easy to set up — load wire and go
+You know that moment when you're mid-job and realize your MIG can't touch aluminum, your stick welder is a separate machine gathering dust, and you still don't own a plasma cutter — so now you're quoting three separate jobs instead of one? That's the exact headache this thing is built to kill.
 
-**My honest note:** It's not for 10mm plate all day. But for sheet metal, auto body, small brackets, and practice? This is the one that gets you started without debt.
+The ARCCAPTAIN MIG205MP is a 9-in-1: Pulse MIG, Flux Core, Plasma Cut, DC HF, Lift TIG, Clean, Stick, and Spool Gun for aluminum — all in one box, running on 120/240V so it doesn't care what socket you've got.
 
-👉 [Check Buyi's Budget Pick Price 
+**What actually solves problems here:**
+- **Built-in plasma cutter** — no more borrowing one or paying a shop to cut what you could've cut yourself
+- **Spool gun included** — aluminum jobs stop being "sorry, I don't do that"
+- **App control** — dial in settings from your phone instead of squinting at a tiny panel mid-weld
+- **Pulse MIG** — cleaner beads on thin material without blowing through, which matters if you're doing anything that needs to look good, not just hold
 
+**My honest note:** This isn't the machine for someone who welds twice a year. It's for the person who's serious enough that owning five separate tools has actually become the problem. If that's you, this collapses your toolbox into one machine that keeps up.
 
-### How to choose a MIG welder for thin metal
+👉 [Check ARCCAPTAIN's Current Price](https://amzn.to/4h8FVFB?tag=smartfabricat-20)
 
-- Look for adjustable low-amperage settings (below 30A ideally) — this budget YESWELDER does that
-- Duty cycle matters less for sheet work than for heavy fabrication
-- Spool gun compatibility if you'll ever weld aluminum
+---
 
 ---
 
