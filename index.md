@@ -7,8 +7,9 @@ title: Home
 
 I test and research welding equipment, fabrication tools, and engineering software so you don't have to guess what's worth your money — just what works, what doesn't, and what's actually worth the price.
 
-### Latest reviews
-Follow me for the latest reviews updated frequently, who knows? You might catch a discount 😁
+## Latest Reviews
+
+Follow me for the latest reviews, updated frequently. Who knows? You might even catch a discount! 😁
 
 - [Best MIG Welders for Sheet Metal (2026)]({{ "/reviews/best-mig-welders-for-sheet-metal/" | relative_url }})
 - [Safety Boots for Boilermakers — What Actually Lasts]({{ "/reviews/safety-boots-boilermaker-learner/" | relative_url }})
