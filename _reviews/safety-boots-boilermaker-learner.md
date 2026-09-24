@@ -38,7 +38,7 @@ After burning through 2 pairs, here's my cheat sheet:
 - **Anti-penetration midsole** — you WILL step on wire and offcuts
 - **Breathable lining** — your feet sweat, and sweaty feet blister
 - **Replaceable insole** — this is non-negotiable for me now
-- Here is an example of a good [steel toe safety boot](/assets/images/boot.jpeg)
+- Here is an example of a good [[steel toe safety boot](/assets/images/boot.jpeg)](https://<username>.github.io/fab-tool-reviews/assets/images/boot.jpeg)
 
 You don't need the most expensive brand. You need boots that let you forget about your feet.
 
