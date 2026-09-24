@@ -53,9 +53,9 @@ Only buy helmets that state compliance with a recognised standard, such as **ANS
 
 Popular brands include Lincoln Electric, Miller, Jackson Safety, ESAB and Hobart. Browse current options and prices here:
 
-- [Auto-darkening welding helmets](https://www.amazon.com/s?k=auto+darkening+welding+helmet&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
-- [Large-view TIG welding helmets](https://www.amazon.com/s?k=large+view+auto+darkening+welding+helmet+tig&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
-- [Replacement helmet cover lenses](https://www.amazon.com/s?k=welding+helmet+cover+lens&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
+- [Auto-darkening welding helmets](https://amzn.to/3ThlEog){:rel="nofollow sponsored" target="_blank"}
+- [Large-view TIG welding helmets](https://amzn.to/4rxXmDc){:rel="nofollow sponsored" target="_blank"}
+- [Replacement helmet cover lenses](https://amzn.to/4rt7jS9){:rel="nofollow sponsored" target="_blank"}
 
 ## Care tips
 
