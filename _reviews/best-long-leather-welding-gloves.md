@@ -1,66 +1,55 @@
 ---
-layout: reviews
-title: "Sparks in Your Shoe? Welding Skull Caps, Shoe Shields and Face Shields for Gas Cutting"
-description: "Protect your head, chest, feet and face from sparks and slag: welding skull caps, aprons, shoe shields and face shields for gas cutting."
+layout: review
+title: "Long Leather Welding Gloves: A Boilermaker's Best Friend"
+description: "How to choose long leather welding gloves for MIG, TIG and stick: leather types, cuff length, Kevlar stitching and care."
 date: 2026-09-24
 categories: [welding-safety]
 ---
 
 *As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra and helps keep this blog alive.*
 
-Have you ever had a spark slither into your shoe, down your chest or jump onto your head? **Ouch!** 🔥
+Look what I found! 🧤
 
-If you weld or cut, it will happen. Look what I found: the little shields that stop it. A boilermaker's best friends. I wish I had known about all of these in my apprentice years.
+Long leather gloves. Not the short, floppy ones that leave your wrist bare for sparks to land on. I mean proper gauntlets that cover your forearms. I wish I had known about these in my apprentice years.
 
-## 🧢 Skull cap: for the head
+## Match the glove to the job
 
-Sparks and spatter love hair and scalp. A cap also keeps your helmet headgear clean.
+| Process | Glove | Why |
+|---|---|---|
+| **MIG** | Thick cowhide or pigskin, long cuff | Handles heat and spatter |
+| **Stick** | Heaviest cowhide, lined, long gauntlet | Most heat and spatter |
+| **TIG** | Thin goatskin or deerskin | Fine finger control |
 
-- Choose **flame-resistant or 100% cotton**. Never polyester or nylon, because synthetics can melt onto skin.
-- Snug enough to sit under a helmet without bunching.
-- Full-coverage styles help when you weld overhead.
-- Buy a few, because you will wash them often.
+## The leather
 
-[Browse welding caps](https://www.amazon.com/s?k=welding+cap+flame+resistant+cotton&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
+- **Cowhide:** tough and heat resistant. Great for stick and heavy fab.
+- **Pigskin:** soft, breathable, stays flexible even when damp.
+- **Goatskin / deerskin:** thin and comfy. Best for TIG.
 
-## 🦺 Apron or jacket: for the chest
+## What to look for
 
-Sparks find gaps at the collar and chest. A leather or flame-resistant apron or jacket covers the front of your body, especially when cutting or grinding.
+- **Cuff length:** aim for about **14-16 inches (35-40 cm)**.
+- **Kevlar stitching:** ordinary cotton thread burns through. Kevlar holds.
+- **Lining:** cotton or fleece for comfort, heavier for stick and cutting.
+- **Reinforced palm and thumb:** the first places to wear out.
+- **Fit:** snug, not tight. Baggy gloves catch and cost you control.
 
-[Browse welding aprons and jackets](https://www.amazon.com/s?k=leather+welding+apron+jacket&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
+## Where to look
 
-## 👞 Shoe shields: for the feet
+Brands worth a look include Lincoln Electric, Tillman, Caiman, Revco and Miller. Browse current options here:
 
-Slag falls straight down and collects around laces and tongues.
+- [Long MIG/stick welding gloves](https://www.amazon.com/s?k=long+leather+welding+gloves+mig+stick&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
+- [TIG welding gloves](https://www.amazon.com/s?k=tig+welding+gloves+goatskin&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
+- [Kevlar-stitched gauntlets](https://www.amazon.com/s?k=kevlar+stitched+welding+gauntlet+gloves&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
 
-- Leather or flame-resistant shields that fit over your boot, with a secure strap.
-- Wear them with **leather safety boots**. Shield covers stop sparks, not falling steel.
-- Keep trouser legs **outside** the boots, not tucked in, so slag rolls off instead of getting trapped.
+## Make them last
 
-[Browse shoe shields and spats](https://www.amazon.com/s?k=welding+leather+shoe+covers+spats&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
+- Do not pick up hot metal with them. Heat dries and cracks leather.
+- Keep them dry. Wet leather passes heat straight to your skin.
+- Air dry, away from direct heat.
+- Retire them when the palm is thin, seams open up, or the leather goes brittle.
 
-## 😎 Face shield: for gas cutting
+My tip: keep **two pairs**. Thick for MIG, stick and cutting, thin for TIG.
 
-Gas (oxy-fuel) cutting throws sparks and glare but needs a lighter lens than arc welding, so a face shield is a good fit.
-
-- **Lens shade:** oxy-fuel cutting generally uses about shade **3-6**, lighter for thin metal and darker for heavy cutting. Check your lens maker's guidance.
-- Wide, full-face see-through shield with dark glasses underneath.
-- Heat-resistant material that will not warp.
-- **Safety glasses underneath.** A face shield is extra protection, not the only protection.
-- Look for a safety standard such as ANSI Z87.1 or EN 166.
-
-[Browse gas cutting face shields](https://www.amazon.com/s?k=oxy+acetylene+cutting+face+shield+shade+5&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
-
-## ✅ The full shield checklist
-
-- Auto-darkening helmet
-- Long leather gloves
-- Flame-resistant skull cap
-- Apron or jacket
-- Leather boots with shoe shields
-- Cutting face shield with the right shade
-- Safety glasses under everything
-
-Small gear, big difference. Your future self will thank you.
-
-**Before this one:** [Long leather gloves]({{ site.baseurl }}{% post_url 2026-09-24-best-long-leather-welding-gloves %})
+**Before this one:** [The auto-darkening helmet]({{ site.baseurl }}{% post_url 2026-09-24-best-auto-darkening-welding-helmets %})
+**Next up:** [Sparks in your shoe? Shields for your head, feet and face]({{ site.baseurl }}{% post_url 2026-09-24-welding-skull-caps-shoe-shields-face-shields %})
