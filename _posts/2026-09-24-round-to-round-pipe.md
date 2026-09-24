@@ -59,16 +59,16 @@ How I used them for round to round:
 
 For ADHD brain: You transfer the measurement, you don't memorize it. Piercing a dot is faster than writing "50mm" and forgetting.
 
-If you need dividers, look for [150mm spring dividers for engineering drawing](YOUR AMAZON LINK FOR DIVIDERS HERE) — the ones with a thumb wheel so it doesn't slip.
+If you need dividers, look for [Dividers for engineering drawing](https://amzn.to/4xDV9r3) — the ones with a thumb wheel so it doesn't slip.
 
 ### How People With ADHD Catch Up With Drawings — Tools That Help
 
 I'd catch up not by drawing faster, but by making my board do the remembering:
 
 **1. A2 Drawing Board that doesn't slide + T-Square that stays clipped**
-My board used to move, then my center line wasn't center. Then I'd tape paper with [low-tack drafting tape](YOUR AMAZON LINK) and leave T-square clipped on — center line first, always.
+My board used to move, then my center line wasn't center. Then I'd tape paper with [low-tack drafting tape](https://amzn.to/4zh33rR) and leave T-square clipped on — center line first, always.
 
-Full board I used then was [this A2 drawing board set with T-square and set squares](YOUR AMAZON LINK FOR DRAWING BOARD SET HERE) — it comes with 30/60 and 45/45, which is everything you need for 90° round to round.
+Full board I used then was [this A2 drawing board set with T-square and set squares](https://amzn.to/4d474XN) — it comes with 30/60 and 45/45, which is everything you need for 90° round to round.
 
 **2. Three pencils in order — 2H, HB, 2B**
 Left to right on my board: 2H = center lines (red), HB = construction and numbers 1-12, 2B = final joint. I never lost my way after that.
