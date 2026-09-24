@@ -19,7 +19,7 @@ Don't start from the side. Start from the middle.
 
 Everything for round to round comes from that cross. If you lose your place, come back to the cross.
 
-![My round to round center lines - red horizontal, blue vertical](/assets/images/round-to-round-center.jpg)
+![My round to round center lines - red horizontal, blue vertical](/assets/images/round-to-round-center.jpeg)
 
 ### How to Draw Round to Round (Equal Diameter Example - 100mm Both Pipes)
 
@@ -40,9 +40,7 @@ This is where people get lost. In plan, draw a circle 100mm dia. Divide it into 
 From each of those 12 points on the circle, project a line down to your branch pipe in elevation. Where each line hits the main pipe = your joint shape.
 
 **[ ] Step 5 — Development / Pattern**
-For fabrication, you need the true shape. Project those 12 points sideways to your development. This is long so I used to check off each point 1-12 so I don't skip.
-
-> If doing this by hand takes too long, check my true lengths on my own calculator site — [Smart Fabricator Pro - Calculator](https://vilakazibuyisiwe2-ops.github.io/fab-tool-reviews/) — I built it to help people avoid manual mistakes after I kept miscalculating point 7 and 11.
+For fabrication, you need the true shape. Project those 12 points sideways to your development. This is long so; I used to check off each point 1-12 so I don't skip.
 
 **[ ] Step 6 — Join the dots smoothly with French curve.**
 
