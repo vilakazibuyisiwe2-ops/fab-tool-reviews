@@ -51,6 +51,8 @@ Gas (oxy-fuel) cutting throws sparks and glare but needs a lighter lens than arc
 
 [Browse gas cutting face shields](https://amzn.to/4hkXcdw){:rel="nofollow sponsored" target="_blank"}
 
+**Before this one:** [Long leather gloves]({{ "/reviews/best-long-leather-welding-gloves/" | relative_url }})
+
 ## ✅ The full shield checklist
 
 - Auto-darkening helmet
