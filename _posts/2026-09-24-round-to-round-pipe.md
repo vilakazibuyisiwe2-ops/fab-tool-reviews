@@ -6,6 +6,9 @@ categories: fabrication-tools
 description: How to draw a round to round pipe joint for fabrication. Step-by-step for N2, with center line method, dividers for ADHD forgetfulness, and tools I use on my drawing board.
 ---
 
+Round to round pipe fabrication drawing trips up a lot of apprentices — not because the geometry is hard, but because it's easy to lose your place halfway through. My lecturer taught us round to round properly. I kept failing it because I would forget the first step and start drawing pipes from the edge of the paper.
+If you have ADHD forgetfulness like me, you need a hook. My hook was: CENTER LINE FIRST.
+
 My lecturer taught us round to round properly. I kept failing it because I would forget the first step and start drawing pipes from the edge of the paper.
 
 If you have ADHD forgetfulness like me, you need a hook. My hook was: **CENTER LINE FIRST.**
@@ -83,3 +86,14 @@ I tick with pencil. If I'd get distracted, I know where I stopped.
 
 **Your turn:** Try drawing 100mm round to round with just center lines and dividers. Take a photo of your 12-point circle and your pierced dots each side of center line — post it below. I will mark it after shift.
 
+### Round to Round Pipe FAQ
+[#round-to-round-pipe-faq](#round-to-round-pipe-faq)
+
+**How many points do you divide the circle into for round to round development?**
+12 points, evenly spaced like a clock face. That's the standard for round to round pipe development — enough points to keep the curve accurate without making the drawing unreadable.
+
+**What's the first step in a round to round pipe fabrication drawing?**
+Draw your center line first — horizontal and vertical — before you draw either pipe. Every measurement in the drawing comes off that cross, so if you start from the edge of the paper instead, you'll lose alignment by the time you get to the joint.
+
+**Do you need a protractor for round to round pipe drawing?**
+No. Spring dividers do the job faster and more accurately — step them around the circle to mark the 12 divisions instead of guessing angles with a protractor.
