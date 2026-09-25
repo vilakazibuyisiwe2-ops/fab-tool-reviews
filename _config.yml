@@ -18,6 +18,13 @@ social:
 # Use in links as {{ site.amazon_tag }}
 amazon_tag: "smartfabricat-20"
 
+# Show these pages in the Minima navigation.
+header_pages:
+  - posts.md
+  - reviews.md
+  - about.markdown
+  - contact.markdown
+
 collections:
   reviews:
     output: true
