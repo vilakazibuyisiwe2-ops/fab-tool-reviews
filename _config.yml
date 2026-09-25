@@ -22,6 +22,7 @@
   header_pages:
     - posts.md
     - reviews.md
+    - education.md
     - about.markdown
     - contact.markdown
     - affiliate-disclosure.md
