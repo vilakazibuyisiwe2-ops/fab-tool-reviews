@@ -52,4 +52,4 @@ Brands worth a look include Lincoln Electric, Tillman, Caiman, Revco and Miller.
 My tip: keep **two pairs**. Thick for MIG, stick and cutting, thin for TIG.
 
 **Before this one:** [The auto-darkening helmet]({{ site.baseurl }}{% post_url 2026-09-24-best-auto-darkening-welding-helmets %})
-**Next up:** [Sparks in your shoe? Shields for your head, feet and face]({{ site.baseurl }}{% post_url 2026-09-24-welding-skull-caps-shoe-shields-face-shields %})
+**Next up:** [Sparks in your shoe? Shields for your head, feet and face]({{ site.baseurl }}{% post_url 2026-09-24-welding-skul-caps-shoe-shields-face-shields %})
