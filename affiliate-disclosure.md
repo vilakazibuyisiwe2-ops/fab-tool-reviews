@@ -4,7 +4,7 @@ title: Affiliate Disclosure
 permalink: /affiliate-disclosure/
 ---
 
-This website contains affiliate links. If you click a link and make a purchase, I may receive a commission at no extra cost to you.
+This website contains Amazon affiliate links. If you click a link and make a purchase, I may receive a commission at no extra cost to you.
 
 I use affiliate links to help support the running of Fab & Tool Reviews. They do not change the price you pay, and they do not affect my goal of giving practical, honest information about welding equipment, fabrication tools, safety gear, and engineering software.
 
