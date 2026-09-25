@@ -25,24 +25,24 @@ Everything for round to round comes from that cross. If you lose your place, com
 
 This is the method I used, with checklist so I wouldn't forget:
 
-**[ ] Step 1 — Front Elevation with Center Line**
+**Step 1 — Front Elevation with Center Line**
 Draw main pipe 100mm — 50mm each side of center line. Use dividers, don't try to remember 50mm (see divider trick below).
 
-**[ ] Step 2 — Branch Pipe on Center**
+**Step 2 — Branch Pipe on Center**
 Branch pipe same 100mm, centered on vertical center line. Where they meet is your joint.
 
-**[ ] Step 3 — Plan View / End View — Divide the Pipe**
+**Step 3 — Plan View / End View — Divide the Pipe**
 This is where people get lost. In plan, draw a circle 100mm dia. Divide it into 12 equal parts (like a clock). Number them 1-12. 
 
 **ADHD hack:** Write numbers BIG around the circle. I used HB for numbers, 2H for lines.
 
-**[ ] Step 4 — Project Lines Down**
+**Step 4 — Project Lines Down**
 From each of those 12 points on the circle, project a line down to your branch pipe in elevation. Where each line hits the main pipe = your joint shape.
 
-**[ ] Step 5 — Development / Pattern**
+**Step 5 — Development / Pattern**
 For fabrication, you need the true shape. Project those 12 points sideways to your development. This is long so; I used to check off each point 1-12 so I don't skip.
 
-**[ ] Step 6 — Join the dots smoothly with French curve.**
+**Step 6 — Join the dots smoothly with French curve.**
 
 ### Dividers Help Those With ADHD to Remember Measurements
 
@@ -59,7 +59,7 @@ How I used them for round to round:
 
 For ADHD brain: You transfer the measurement, you don't memorize it. Piercing a dot is faster than writing "50mm" and forgetting.
 
-If you need dividers, look for [Dividers for engineering drawing](https://amzn.to/4xDV9r3) — the ones with a thumb wheel so it doesn't slip.
+If you need dividers, look for [Dividers for engineering drawing](https://amzn.to/4yisDMW) — the ones with a thumb wheel so it doesn't slip.
 
 ### How People With ADHD Catch Up With Drawings — Tools That Help
 
