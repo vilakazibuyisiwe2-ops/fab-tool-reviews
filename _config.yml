@@ -1,43 +1,28 @@
-title: "Fab & Tool Reviews"
-description: "Honest reviews of welding equipment, fabrication tools, and engineering software."
-baseurl: "/fab-tool-reviews"
-url: "https://vilakazibuyisiwe2-ops.github.io"
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+---
+layout: page
+title: All Reviews
+permalink: /reviews/
+---
 
-permalink: /:title/
-
-# SEO / social defaults
-author: "Buyisiwe Vilakazi"
-social:
-  name: "Fab & Tool Reviews"
-
-# Use in links as {{ site.amazon_tag }}
-amazon_tag: "smartfabricat-20"
-
-# Show these pages in the Minima navigation.
-header_pages:
-  - posts.md
-  - reviews.md
-  - about.markdown
-  - contact.markdown
-
-collections:
-  reviews:
-    output: true
-    permalink: /reviews/:name/
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "reviews"
-    values:
-      layout: "page"
+{% assign reviews = site.reviews | sort: "date" | reverse %}
+{% if reviews.size > 0 %}
+<ul class="post-list">
+  {% for review in reviews %}
+    <li>
+      <h2>
+        <a href="{{ review.url | relative_url }}">{{ review.title | escape }}</a>
+      </h2>
+      {% if review.date %}
+        <p class="post-meta">{{ review.date | date: "%-d %B %Y" }}</p>
+      {% endif %}
+      {% if review.description %}
+        <p>{{ review.description }}</p>
+      {% else %}
+        <p>{{ review.excerpt | strip_html | truncatewords: 35 }}</p>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No reviews yet.</p>
+{% endif %}
