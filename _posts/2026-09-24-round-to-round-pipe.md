@@ -7,13 +7,10 @@ description: How to draw a round to round pipe joint for fabrication. Step-by-st
 ---
 
 Round to round pipe fabrication drawing trips up a lot of apprentices — not because the geometry is hard, but because it's easy to lose your place halfway through. My lecturer taught us round to round properly. I kept failing it because I would forget the first step and start drawing pipes from the edge of the paper.
-If you have ADHD forgetfulness like me, you need a hook. My hook was: CENTER LINE FIRST.
-
-My lecturer taught us round to round properly. I kept failing it because I would forget the first step and start drawing pipes from the edge of the paper.
 
 If you have ADHD forgetfulness like me, you need a hook. My hook was: **CENTER LINE FIRST.**
 
-### First Things First... Draw a CENTER LINE Right Through the Page and Work From the Center
+## First Things First... Draw a CENTER LINE Right Through the Page and Work From the Center
 
 Don't start from the side. Start from the middle.
 
@@ -22,32 +19,41 @@ Don't start from the side. Start from the middle.
 
 Everything for round to round comes from that cross. If you lose your place, come back to the cross.
 
-![My round to round center lines - red horizontal, blue vertical](/assets/images/round-to-round-center.jpeg)
 
-### How to Draw Round to Round (Equal Diameter Example - 100mm Both Pipes)
+
+![Round to round pipe fabrication drawing showing center line method - red horizontal, blue vertical](/assets/images/round-to-round-center.jpeg)
+
+
+
+## How to Draw Round to Round (Equal Diameter Example - 100mm Both Pipes)
 
 This is the method I used, with checklist so I wouldn't forget:
 
-**Step 1 — Front Elevation with Center Line**
+### Step 1 — Front Elevation with Center Line
+
 Draw main pipe 100mm — 50mm each side of center line. Use dividers, don't try to remember 50mm (see divider trick below).
 
-**Step 2 — Branch Pipe on Center**
+### Step 2 — Branch Pipe on Center
+
 Branch pipe same 100mm, centered on vertical center line. Where they meet is your joint.
 
-**Step 3 — Plan View / End View — Divide the Pipe**
-This is where people get lost. In plan, draw a circle 100mm dia. Divide it into 12 equal parts (like a clock). Number them 1-12. 
+### Step 3 — Plan View / End View — Divide the Pipe
+
+This is where people get lost. In plan, draw a circle 100mm dia. Divide it into 12 equal parts (like a clock). Number them 1-12.
 
 **ADHD hack:** Write numbers BIG around the circle. I used HB for numbers, 2H for lines.
 
-**Step 4 — Project Lines Down**
+### Step 4 — Project Lines Down
+
 From each of those 12 points on the circle, project a line down to your branch pipe in elevation. Where each line hits the main pipe = your joint shape.
 
-**Step 5 — Development / Pattern**
+### Step 5 — Development / Pattern
+
 For fabrication, you need the true shape. Project those 12 points sideways to your development. This is long so; I used to check off each point 1-12 so I don't skip.
 
-**Step 6 — Join the dots smoothly with French curve.**
+### Step 6 — Join the Dots Smoothly with French Curve
 
-### Dividers Help Those With ADHD to Remember Measurements
+## Dividers Help Those With ADHD to Remember Measurements
 
 This is the tool that stopped my marks dropping.
 
@@ -64,19 +70,22 @@ For ADHD brain: You transfer the measurement, you don't memorize it. Piercing a 
 
 If you need dividers, look for [Dividers for engineering drawing](https://amzn.to/4yisDMW) — the ones with a thumb wheel so it doesn't slip.
 
-### How People With ADHD Catch Up With Drawings — Tools That Help
+## How People With ADHD Catch Up With Drawings — Tools That Help
 
 I'd catch up not by drawing faster, but by making my board do the remembering:
 
-**1. A2 Drawing Board that doesn't slide + T-Square that stays clipped**
+### A2 Drawing Board That Doesn't Slide + T-Square That Stays Clipped
+
 My board used to move, then my center line wasn't center. Then I'd tape paper with [low-tack drafting tape](https://amzn.to/4zh33rR) and leave T-square clipped on — center line first, always.
 
 Full board I used then was [this A2 drawing board set with T-square and set squares](https://amzn.to/4d474XN) — it comes with 30/60 and 45/45, which is everything you need for 90° round to round.
 
-**2. Three pencils in order — 2H, HB, 2B**
+### Three Pencils in Order — 2H, HB, 2B
+
 Left to right on my board: 2H = center lines (red), HB = construction and numbers 1-12, 2B = final joint. I never lost my way after that.
 
-**3. Checklist on sticky note**
+### Checklist on Sticky Note
+
 On my board: CENTER LINE → DIVIDERS → 12 POINTS → PROJECT → DEVELOPMENT
 I tick with pencil. If I'd get distracted, I know where I stopped.
 
@@ -86,8 +95,7 @@ I tick with pencil. If I'd get distracted, I know where I stopped.
 
 **Your turn:** Try drawing 100mm round to round with just center lines and dividers. Take a photo of your 12-point circle and your pierced dots each side of center line — post it below. I will mark it after shift.
 
-### Round to Round Pipe FAQ
-[#round-to-round-pipe-faq](#round-to-round-pipe-faq)
+## Round to Round Pipe FAQ
 
 **How many points do you divide the circle into for round to round development?**
 12 points, evenly spaced like a clock face. That's the standard for round to round pipe development — enough points to keep the curve accurate without making the drawing unreadable.
