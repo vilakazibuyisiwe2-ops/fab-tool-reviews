@@ -1,5 +1,5 @@
 title: "Fab & Tool Reviews"
-description: "Honest reviews of welding equipment, fabrication tools, and engineering software."
+description: "Independent welding, fabrication tool, and workshop gear reviews from a qualified boilermaker."
 baseurl: "/fab-tool-reviews"
 url: "https://vilakazibuyisiwe2-ops.github.io"
 theme: minima
@@ -14,7 +14,9 @@ author: "Buyisiwe Vilakazi"
 social:
   name: "Fab & Tool Reviews"
 
+# Replace this with your custom domain when it is connected.
 amazon_tag: "smartfabricat-20"
+logo: "/assets/images/fab-tool-reviews-mark.svg"
 
 # Main site navigation.
 header_pages:
@@ -22,6 +24,7 @@ header_pages:
   - reviews.md
   - about.markdown
   - contact.markdown
+  - affiliate-disclosure.md
 
 collections:
   reviews:

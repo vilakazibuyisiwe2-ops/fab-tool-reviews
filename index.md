@@ -3,22 +3,26 @@ layout: home
 title: Home
 ---
 
-## Practical fabrication advice from the workshop
+## Built for people who work with metal
 
-Straight-talking guidance on welding equipment, fabrication tools, safety gear, and engineering software — written for people who work with metal.
+Straight-talking guidance on welding equipment, fabrication tools, safety gear, and engineering software — from a qualified boilermaker who cares about what works on the job.
 
 <div class="home-links">
   <a class="btn" href="{{ '/posts/' | relative_url }}">Read the blog</a>
-  <a class="btn" href="{{ '/reviews/' | relative_url }}">Browse reviews</a>
+  <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">Browse reviews</a>
+</div>
+
+<div class="affiliate-note">
+  <strong>Quick note:</strong> Some links are affiliate links. If you buy through one, I may earn a commission at no extra cost to you. I only recommend products that fit the job.
 </div>
 
 ## Latest Blog Posts
 
-Fresh tips, safety advice, and fabrication guides from the workshop.
+Practical tips, safety advice, and fabrication guides from the workshop.
 
 {% assign posts = site.posts | sort: "date" | reverse %}
 {% if posts.size > 0 %}
-<ul class="post-list">
+<ul class="post-list featured-list">
   {% for post in posts limit: 4 %}
     <li>
       <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
@@ -29,7 +33,7 @@ Fresh tips, safety advice, and fabrication guides from the workshop.
 </ul>
 {% endif %}
 
-<a class="btn" href="{{ '/posts/' | relative_url }}">View all blog posts →</a>
+<a class="btn" href="{{ '/posts/' | relative_url }}">View the blog →</a>
 
 ## Featured Reviews
 
@@ -37,7 +41,7 @@ Independent, practical breakdowns to help you choose gear that earns its place i
 
 {% assign reviews = site.reviews | sort: "date" | reverse %}
 {% if reviews.size > 0 %}
-<ul class="post-list">
+<ul class="post-list featured-list reviews-list">
   {% for review in reviews limit: 4 %}
     <li>
       <h3><a href="{{ review.url | relative_url }}">{{ review.title | escape }}</a></h3>
@@ -48,12 +52,13 @@ Independent, practical breakdowns to help you choose gear that earns its place i
 </ul>
 {% endif %}
 
-<a class="btn" href="{{ '/reviews/' | relative_url }}">View all reviews →</a>
+<a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">See all reviews →</a>
 
 ### Workshop essentials
 
 - **Welding equipment** — MIG, TIG, and plasma cutters
 - **Fabrication tools** — measuring, cutting, and layout tools
+- **Safety gear** — practical protection for real workshop conditions
 - **CAD and design software** — budget-friendly options for small shops
 
 Subscribe to the [RSS feed]({{ '/feed.xml' | relative_url }}) for new articles and reviews.

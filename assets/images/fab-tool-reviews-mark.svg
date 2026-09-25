@@ -1,0 +1,10 @@
+---
+---
+
+<svg class="brand-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Fab and Tool Reviews emblem</title>
+  <desc id="desc">An orange anvil and spark inside a dark circular badge</desc>
+  <circle cx="64" cy="64" r="60" fill="#1f2933" stroke="#e8590c" stroke-width="6"/>
+  <path fill="#f6f7f9" d="M30 76h68v11H30zM40 64h48l8 12H32zM48 47h32v17H48zM42 39h44v9H42zM54 87h20l-4 12H58z"/>
+  <path fill="#ff922b" d="m88 23 5 12 12 5-12 5-5 12-5-12-12-5 12-5z"/>
+</svg>

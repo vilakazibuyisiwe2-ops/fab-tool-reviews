@@ -23,10 +23,40 @@ $grey-color-dark: #3a424c;
 .site-nav { background: #1f2933; }
 .site-nav a:hover { color: #ff6a00 !important; }
 
+.site-title::before {
+  content: "";
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+  vertical-align: middle;
+  background: url("{{ '/assets/images/fab-tool-reviews-mark.svg' | relative_url }}") center / contain no-repeat;
+}
+
 a { color: #e8590c; }
 a:hover { color: #b8420a; }
 h1, h2, h3 { color: #1f2933; }
 .post-link { color: #1f2933; }
+
+.home-links { margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: .75rem; }
+.btn {
+  display: inline-block;
+  padding: .65rem 1rem;
+  border: 2px solid #e8590c;
+  border-radius: 4px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.btn-primary { background: #e8590c; color: #fff !important; }
+.btn-primary:hover { background: #b8420a; border-color: #b8420a; }
+.affiliate-note {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.15rem;
+  border-left: 4px solid #e8590c;
+  background: #fff3e8;
+}
+.featured-list li { margin-bottom: 1.5rem; }
+.reviews-list { border-left: 4px solid #e8590c; padding-left: 1.25rem; }
 
 .site-footer {
   background: #1f2933;
