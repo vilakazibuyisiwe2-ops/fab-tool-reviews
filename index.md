@@ -3,32 +3,60 @@ layout: home
 title: Home
 ---
 
-## Real reviews for people who actually work with metal
+## Practical fabrication advice from the workshop
 
-I test and research welding equipment, fabrication tools, and engineering software so you don't have to guess what's worth your money — just what works, what doesn't, and what's actually worth the price.
+Straight-talking guidance on welding equipment, fabrication tools, safety gear, and engineering software — written for people who work with metal.
 
-## Latest Reviews
+<div class="home-links">
+  <a class="btn" href="{{ '/posts/' | relative_url }}">Read the blog</a>
+  <a class="btn" href="{{ '/reviews/' | relative_url }}">Browse reviews</a>
+</div>
 
-Follow me for the latest reviews, updated frequently. Who knows? You might even catch a discount! 😁
+## Latest Blog Posts
 
-- [Best Welders needs (2026)]({{ "/reviews/best-welder-needs/" | relative_url }})
-- [Safety Boots for Boilermakers — What Actually Lasts]({{ "/reviews/safety-boots-boilermaker-learner/" | relative_url }})
+Fresh tips, safety advice, and fabrication guides from the workshop.
 
-### 🔧 Boilermaker Tools I Use in My Workshop
+{% assign posts = site.posts | sort: "date" | reverse %}
+{% if posts.size > 0 %}
+<ul class="post-list">
+  {% for post in posts limit: 4 %}
+    <li>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+      <p class="post-meta">{{ post.date | date: "%-d %B %Y" }}</p>
+      {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
 
-**1. 300mm Digital Caliper for precise measurements** The 150mm is too small for frustums. I use this 300mm Kynup — waterproof, holds the reading so I can type straight into my calculator.
-👉 [Check Price on Amazon - Global Link](https://www.amazon.com/dp/B09KGHRKHY?tag=smartfabricat-20)
+<a class="btn" href="{{ '/posts/' | relative_url }}">View all blog posts →</a>
 
-**2. N2 Engineering Drawing Book** For N2 students - First-angle vs Third-angle explained properly.
-👉 [See Drawing Textbook on Amazon](https://www.amazon.com/s?k=engineering+drawing+textbook&tag=smartfabricat-20)
+## Featured Reviews
 
-### Categories
+Independent, practical breakdowns to help you choose gear that earns its place in the workshop.
 
-- **Welding Equipment** — MIG, TIG, plasma cutters
-- **Fabrication Tools** — measuring, cutting, layout tools
-- **CAD & Design Software** — Budget friendly options for small shops
+{% assign reviews = site.reviews | sort: "date" | reverse %}
+{% if reviews.size > 0 %}
+<ul class="post-list">
+  {% for review in reviews limit: 4 %}
+    <li>
+      <h3><a href="{{ review.url | relative_url }}">{{ review.title | escape }}</a></h3>
+      {% if review.date %}<p class="post-meta">{{ review.date | date: "%-d %B %Y" }}</p>{% endif %}
+      {% if review.description %}<p>{{ review.description }}</p>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
 
-New posts go up regularly — check back or subscribe to the [RSS feed]({{ "/feed.xml" | relative_url }}).
+<a class="btn" href="{{ '/reviews/' | relative_url }}">View all reviews →</a>
+
+### Workshop essentials
+
+- **Welding equipment** — MIG, TIG, and plasma cutters
+- **Fabrication tools** — measuring, cutting, and layout tools
+- **CAD and design software** — budget-friendly options for small shops
+
+Subscribe to the [RSS feed]({{ '/feed.xml' | relative_url }}) for new articles and reviews.
 
 ---
 

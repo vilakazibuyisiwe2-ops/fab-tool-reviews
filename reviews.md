@@ -1,26 +1,24 @@
 ---
 layout: page
-title: All Posts
-permalink: /posts/
+title: Reviews
+permalink: /reviews/
 ---
 
-{% assign posts = site.posts | sort: "date" | reverse %}
-{% if posts.size > 0 %}
+{% assign reviews = site.reviews | sort: "date" | reverse %}
+{% if reviews.size > 0 %}
 <ul class="post-list">
-  {% for post in posts %}
+  {% for review in reviews %}
     <li>
-      <h2>
-        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </h2>
-      <p class="post-meta">{{ post.date | date: "%-d %B %Y" }}</p>
-      {% if post.description %}
-        <p>{{ post.description }}</p>
+      <h2><a href="{{ review.url | relative_url }}">{{ review.title | escape }}</a></h2>
+      {% if review.date %}<p class="post-meta">{{ review.date | date: "%-d %B %Y" }}</p>{% endif %}
+      {% if review.description %}
+        <p>{{ review.description }}</p>
       {% else %}
-        <p>{{ post.excerpt | strip_html | truncatewords: 35 }}</p>
+        <p>{{ review.excerpt | strip_html | truncatewords: 35 }}</p>
       {% endif %}
     </li>
   {% endfor %}
 </ul>
 {% else %}
-<p>No posts yet.</p>
+<p>No reviews yet.</p>
 {% endif %}
