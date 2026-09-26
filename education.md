@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Educational
-permalink: /educational/
+title: Education
+permalink: /education/
 ---
 
 {% assign articles = site.educational | sort: "date" | reverse %}
