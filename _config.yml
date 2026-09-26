@@ -31,6 +31,9 @@
     reviews:
       output: true
       permalink: /reviews/:name/
+      educational:
+      output: true
+      permalink: /educational/:name/
 
   defaults:
     - scope:
@@ -43,3 +46,8 @@
         type: "reviews"
       values:
         layout: "page"
+        - scope:
+        path: ""
+        type: "educational"
+      values:
+        layout: "post"
