@@ -30,6 +30,15 @@ Straight-talking guidance on welding equipment, fabrication tools, safety gear, 
 
 <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">See all reviews →</a>
 
+### Workshop essentials
+
+- **Welding equipment** — MIG, TIG, and plasma cutters
+- **Fabrication tools** — measuring, cutting, and layout tools
+- **Safety gear** — practical protection for real workshop conditions
+- **CAD and design software** — budget-friendly options for small shops
+
+Subscribe to the [RSS feed]({{ '/feed.xml' | relative_url }}) for new articles and reviews.
+
 ---
 
 *This site contains affiliate links, including as an Amazon Associate. I earn from qualifying purchases at no extra cost to you.*
