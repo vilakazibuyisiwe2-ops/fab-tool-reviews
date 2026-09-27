@@ -43,46 +43,46 @@ title: Home
 </style>
 
 <div class="home-hero-bg" aria-hidden="true"></div>
-<div class="home-content" markdown="1">
+<div class="home-content">
+  <h2>Built for people who work with metal</h2>
 
-## Built for people who work with metal
+  <p>Straight-talking guidance on welding equipment, fabrication tools, safety gear, and engineering software — from a qualified boilermaker who cares about what works on the job.</p>
 
-Straight-talking guidance on welding equipment, fabrication tools, safety gear, and engineering software — from a qualified boilermaker who cares about what works on the job.
+  <div class="home-links">
+    <a class="btn" href="{{ '/posts/' | relative_url }}">Read the blog</a>
+    <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">Browse reviews</a>
+    <a class="btn" href="{{ '/education/' | relative_url }}">Free safety guides</a>
+  </div>
 
-<div class="home-links">
-  <a class="btn" href="{{ '/posts/' | relative_url }}">Read the blog</a>
-  <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">Browse reviews</a>
-  <a class="btn" href="{{ '/education/' | relative_url }}">Free safety guides</a>
-</div>
+  <h2>Featured Reviews</h2>
 
-## Featured Reviews
+  {% assign reviews = site.reviews | sort: "date" | reverse %}
+  {% if reviews.size > 0 %}
+  <ul class="post-list featured-list reviews-list">
+    {% for review in reviews limit: 4 %}
+      <li>
+        <h3><a href="{{ review.url | relative_url }}">{{ review.title | escape }}</a></h3>
+        {% if review.date %}<p class="post-meta">{{ review.date | date: "%-d %B %Y" }}</p>{% endif %}
+        {% if review.description %}<p>{{ review.description }}</p>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
 
-{% assign reviews = site.reviews | sort: "date" | reverse %}
-{% if reviews.size > 0 %}
-<ul class="post-list featured-list reviews-list">
-  {% for review in reviews limit: 4 %}
-    <li>
-      <h3><a href="{{ review.url | relative_url }}">{{ review.title | escape }}</a></h3>
-      {% if review.date %}<p class="post-meta">{{ review.date | date: "%-d %B %Y" }}</p>{% endif %}
-      {% if review.description %}<p>{{ review.description }}</p>{% endif %}
-    </li>
-  {% endfor %}
-</ul>
-{% endif %}
+  <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">See all reviews →</a>
 
-<a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">See all reviews →</a>
+  <h3>Workshop essentials</h3>
 
-### Workshop essentials
+  <ul>
+    <li><strong>Welding equipment</strong> — MIG, TIG, and plasma cutters</li>
+    <li><strong>Fabrication tools</strong> — measuring, cutting, and layout tools</li>
+    <li><strong>Safety gear</strong> — practical protection for real workshop conditions</li>
+    <li><strong>CAD and design software</strong> — budget-friendly options for small shops</li>
+  </ul>
 
-- **Welding equipment** — MIG, TIG, and plasma cutters
-- **Fabrication tools** — measuring, cutting, and layout tools
-- **Safety gear** — practical protection for real workshop conditions
-- **CAD and design software** — budget-friendly options for small shops
+  <p>Subscribe to the <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a> for new articles and reviews.</p>
 
-Subscribe to the [RSS feed]({{ '/feed.xml' | relative_url }}) for new articles and reviews.
+  <hr>
 
----
-
-*This site contains affiliate links, including as an Amazon Associate. I earn from qualifying purchases at no extra cost to you.*
-
+  <p><em>This site contains affiliate links, including as an Amazon Associate. I earn from qualifying purchases at no extra cost to you.</em></p>
 </div>
