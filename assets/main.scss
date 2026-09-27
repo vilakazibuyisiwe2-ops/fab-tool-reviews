@@ -10,18 +10,20 @@ $grey-color-dark: #3a424c;
 @import "minima";
 
 .site-header {
-  background: #1f2933;
-  border-top: 5px solid $brand-color;
+  background: #0f1419;
+  border-top: 3px solid #7b9fc4;
   border-bottom: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
-.site-title, .site-title:visited { color: #fff; font-weight: 700; }
+.site-title, .site-title:visited { color: #f5f7fa; font-weight: 600; letter-spacing: -0.3px; }
 .site-nav a, .site-nav .page-link {
-  color: #fff !important;
-  font-weight: 600;
-  opacity: 1;
+  color: #d4d8dd !important;
+  font-weight: 500;
+  opacity: 0.95;
+  transition: color 0.2s ease;
 }
-.site-nav { background: #1f2933; }
-.site-nav a:hover { color: #a9b9c9 !important; }
+.site-nav { background: #0f1419; }
+.site-nav a:hover { color: #a8c5e0 !important; }
 
 .site-title::before {
   content: "";
@@ -33,38 +35,60 @@ $grey-color-dark: #3a424c;
   background: url("{{ '/assets/images/fab-tool-reviews-mark.svg' | relative_url }}") center / contain no-repeat;
 }
 
-a { color: $brand-color; }
-a:hover { color: #354b61; }
-h1, h2, h3 { color: #1f2933; }
+a { color: #7b9fc4; transition: color 0.2s ease; }
+a:hover { color: #a8c5e0; }
+h1, h2, h3 { color: #1f2933; font-weight: 600; }
 .post-link { color: #1f2933; }
 
-.home-links { margin: 1.5rem 0; display: flex; flex-wrap: wrap; gap: .75rem; }
+.home-links { margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 1rem; }
 .btn {
   display: inline-block;
-  padding: .65rem 1rem;
-  border: 2px solid #a8c5e0;
-  border-radius: 4px;
-  font-weight: 700;
+  padding: 0.75rem 1.5rem;
+  border: 1.5px solid #7b9fc4;
+  border-radius: 6px;
+  font-weight: 600;
   text-decoration: none;
   color: #a8c5e0 !important;
+  transition: all 0.3s ease;
+  letter-spacing: 0.3px;
 }
-.btn:hover { border-color: #d4e4f7; color: #d4e4f7 !important; }
-.btn-primary { background: #7b9fc4; color: #f0f4f8 !important; border-color: #7b9fc4; }
-.btn-primary:hover { background: #a8c5e0; border-color: #a8c5e0; color: #ffffff !important; }
+.btn:hover { 
+  border-color: #a8c5e0; 
+  color: #d4e4f7 !important;
+  background: rgba(120, 159, 196, 0.08);
+  transform: translateY(-1px);
+}
+.btn-primary { 
+  background: linear-gradient(135deg, #7b9fc4 0%, #6b8fb5 100%);
+  color: #f0f4f8 !important; 
+  border-color: #7b9fc4;
+}
+.btn-primary:hover { 
+  background: linear-gradient(135deg, #a8c5e0 0%, #7b9fc4 100%);
+  border-color: #a8c5e0;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(120, 159, 196, 0.25);
+}
 .affiliate-note {
-  margin: 1.5rem 0 2rem;
-  padding: 1rem 1.15rem;
-  border-left: 4px solid $brand-color;
-  background: #edf1f5;
+  margin: 2rem 0 2.5rem;
+  padding: 1.25rem 1.5rem;
+  border-left: 3px solid #7b9fc4;
+  background: #f0f3f6;
+  border-radius: 4px;
 }
-.featured-list li { margin-bottom: 1.5rem; }
-.reviews-list { border-left: 4px solid $brand-color; padding-left: 1.25rem; }
+.featured-list li { margin-bottom: 2rem; }
+.featured-list li h3 { margin-bottom: 0.5rem; }
+.featured-list li p { margin: 0.5rem 0; }
+.reviews-list { border-left: 3px solid #7b9fc4; padding-left: 1.5rem; }
 
 .site-footer {
-  background: #1f2933;
-  color: #d5d9de;
-  margin-top: 40px;
-  padding-top: 30px;
+  background: #0f1419;
+  color: #b8bcc3;
+  margin-top: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-top: 1px solid #1f2933;
 }
-.site-footer a { color: #a9b9c9; }
-.footer-heading { color: #fff; }
+.site-footer a { color: #a8c5e0; transition: color 0.2s ease; }
+.site-footer a:hover { color: #d4e4f7; }
+.footer-heading { color: #f5f7fa; font-weight: 600; }
