@@ -35,9 +35,9 @@ $grey-color-dark: #3a424c;
   background: url("{{ '/assets/images/fab-tool-reviews-mark.svg' | relative_url }}") center / contain no-repeat;
 }
 
-a { color: #a8c5e0; transition: color 0.2s ease; }
-a:visited { color: #b9d2ea; }
-a:hover { color: #d4e4f7; }
+a { color: #003d99; transition: color 0.2s ease; }
+a:visited { color: #003d99; }
+a:hover { color: #0052cc; }
 h1, h2, h3 { color: #1f2933; font-weight: 600; }
 .post-link { color: #1f2933; }
 
