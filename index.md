@@ -13,13 +13,7 @@ Straight-talking guidance on welding equipment, fabrication tools, safety gear, 
   <a class="btn" href="{{ '/education/' | relative_url }}">Free safety guides</a>
 </div>
 
-<div class="affiliate-note">
-  <strong>Quick note:</strong> Some links are affiliate links. If you buy through one, I may earn a commission at no extra cost to you. I only recommend products that fit the job.
-</div>
-
 ## Latest Blog Posts
-
-Practical tips, safety advice, and fabrication guides from the workshop.
 
 {% assign posts = site.posts | sort: "date" | reverse %}
 {% if posts.size > 0 %}
@@ -38,8 +32,6 @@ Practical tips, safety advice, and fabrication guides from the workshop.
 
 ## Featured Reviews
 
-Independent, practical breakdowns to help you choose gear that earns its place in the workshop.
-
 {% assign reviews = site.reviews | sort: "date" | reverse %}
 {% if reviews.size > 0 %}
 <ul class="post-list featured-list reviews-list">
@@ -54,16 +46,3 @@ Independent, practical breakdowns to help you choose gear that earns its place i
 {% endif %}
 
 <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">See all reviews →</a>
-
-### Workshop essentials
-
-- **Welding equipment** — MIG, TIG, and plasma cutters
-- **Fabrication tools** — measuring, cutting, and layout tools
-- **Safety gear** — practical protection for real workshop conditions
-- **CAD and design software** — budget-friendly options for small shops
-
-Subscribe to the [RSS feed]({{ '/feed.xml' | relative_url }}) for new articles and reviews.
-
----
-
-*This site contains affiliate links, including as an Amazon Associate. I earn from qualifying purchases at no extra cost to you.*
