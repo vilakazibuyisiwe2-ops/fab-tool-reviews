@@ -1,6 +1,6 @@
 ---
 ---
-$brand-color: #e8590c;
+$brand-color: #526a82;
 $text-color: #22272e;
 $background-color: #f6f7f9;
 $grey-color: #6b7580;
@@ -11,7 +11,7 @@ $grey-color-dark: #3a424c;
 
 .site-header {
   background: #1f2933;
-  border-top: 5px solid #e8590c;
+  border-top: 5px solid $brand-color;
   border-bottom: 0;
 }
 .site-title, .site-title:visited { color: #fff; font-weight: 700; }
@@ -21,7 +21,7 @@ $grey-color-dark: #3a424c;
   opacity: 1;
 }
 .site-nav { background: #1f2933; }
-.site-nav a:hover { color: #ff6a00 !important; }
+.site-nav a:hover { color: #a9b9c9 !important; }
 
 .site-title::before {
   content: "";
@@ -33,8 +33,8 @@ $grey-color-dark: #3a424c;
   background: url("{{ '/assets/images/fab-tool-reviews-mark.svg' | relative_url }}") center / contain no-repeat;
 }
 
-a { color: #e8590c; }
-a:hover { color: #b8420a; }
+a { color: $brand-color; }
+a:hover { color: #354b61; }
 h1, h2, h3 { color: #1f2933; }
 .post-link { color: #1f2933; }
 
@@ -42,21 +42,21 @@ h1, h2, h3 { color: #1f2933; }
 .btn {
   display: inline-block;
   padding: .65rem 1rem;
-  border: 2px solid #e8590c;
+  border: 2px solid $brand-color;
   border-radius: 4px;
   font-weight: 700;
   text-decoration: none;
 }
-.btn-primary { background: #e8590c; color: #fff !important; }
-.btn-primary:hover { background: #b8420a; border-color: #b8420a; }
+.btn-primary { background: $brand-color; color: #fff !important; }
+.btn-primary:hover { background: #354b61; border-color: #354b61; }
 .affiliate-note {
   margin: 1.5rem 0 2rem;
   padding: 1rem 1.15rem;
-  border-left: 4px solid #e8590c;
-  background: #fff3e8;
+  border-left: 4px solid $brand-color;
+  background: #edf1f5;
 }
 .featured-list li { margin-bottom: 1.5rem; }
-.reviews-list { border-left: 4px solid #e8590c; padding-left: 1.25rem; }
+.reviews-list { border-left: 4px solid $brand-color; padding-left: 1.25rem; }
 
 .site-footer {
   background: #1f2933;
@@ -64,5 +64,5 @@ h1, h2, h3 { color: #1f2933; }
   margin-top: 40px;
   padding-top: 30px;
 }
-.site-footer a { color: #ff922b; }
+.site-footer a { color: #a9b9c9; }
 .footer-heading { color: #fff; }
