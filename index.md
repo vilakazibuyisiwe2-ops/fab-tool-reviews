@@ -43,7 +43,7 @@ title: Home
 </style>
 
 <div class="home-hero-bg" aria-hidden="true"></div>
-<div class="home-content">
+<div class="home-content" markdown="1">
 
 ## Built for people who work with metal
 
