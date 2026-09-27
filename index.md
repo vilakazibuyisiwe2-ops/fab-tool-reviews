@@ -8,18 +8,18 @@ title: Home
     position: fixed;
     inset: 0;
     z-index: -1;
-    background-image: linear-gradient(rgba(8, 12, 18, 0.52), rgba(8, 12, 18, 0.52)), url('{{ "/assets/images/etienne-girardet-sgYamIzhAhg-unsplash.jpg" | relative_url }}');
+    background-image: linear-gradient(rgba(8, 12, 18, 0.68), rgba(8, 12, 18, 0.68)), url('{{ "/assets/images/etienne-girardet-sgYamIzhAhg-unsplash.jpg" | relative_url }}');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.9;
+    opacity: 0.95;
     pointer-events: none;
   }
 
   .home-content {
     position: relative;
     z-index: 1;
-    color: #e0e0e0;
+    color: #d9d9d9;
   }
 </style>
 
