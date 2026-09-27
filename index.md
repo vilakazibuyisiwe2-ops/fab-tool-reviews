@@ -13,23 +13,6 @@ Straight-talking guidance on welding equipment, fabrication tools, safety gear, 
   <a class="btn" href="{{ '/education/' | relative_url }}">Free safety guides</a>
 </div>
 
-## Latest Blog Posts
-
-{% assign posts = site.posts | sort: "date" | reverse %}
-{% if posts.size > 0 %}
-<ul class="post-list featured-list">
-  {% for post in posts limit: 4 %}
-    <li>
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-      <p class="post-meta">{{ post.date | date: "%-d %B %Y" }}</p>
-      {% if post.description %}<p>{{ post.description }}</p>{% endif %}
-    </li>
-  {% endfor %}
-</ul>
-{% endif %}
-
-<a class="btn" href="{{ '/posts/' | relative_url }}">View the blog →</a>
-
 ## Featured Reviews
 
 {% assign reviews = site.reviews | sort: "date" | reverse %}
@@ -46,3 +29,7 @@ Straight-talking guidance on welding equipment, fabrication tools, safety gear, 
 {% endif %}
 
 <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">See all reviews →</a>
+
+---
+
+*This site contains affiliate links, including as an Amazon Associate. I earn from qualifying purchases at no extra cost to you.*
