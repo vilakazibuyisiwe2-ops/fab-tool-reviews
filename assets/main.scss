@@ -35,12 +35,7 @@ $grey-color-dark: #3a424c;
   background: url("{{ '/assets/images/fab-tool-reviews-mark.svg' | relative_url }}") center / contain no-repeat;
 }
 
-a { color: #a8c5e0; transition: color 0.2s ease; }
-a:visited { color: #b9d2ea; }
-a:hover { color: #d4e4f7; }
-h1, h2, h3 { color: #1f2933; font-weight: 600; }
-.post-link { color: #1f2933; }
-
+/* Light links on home page */
 .home-content a,
 .home-content a:visited { color: #b9d2ea; }
 .home-content a:hover { color: #ffffff; }
@@ -49,6 +44,24 @@ h1, h2, h3 { color: #1f2933; font-weight: 600; }
 .home-content .featured-list h3 a,
 .home-content .featured-list h3 a:visited { color: #f5f7fa; }
 .home-content .featured-list h3 a:hover { color: #d4e4f7; }
+
+/* Darker links on all other pages */
+a { color: #2d5a8c; transition: color 0.2s ease; }
+a:visited { color: #1e3a5f; }
+a:hover { color: #0f2d47; }
+
+/* But keep nav links light */
+.site-nav a { color: #d4d8dd !important; }
+.site-nav a:visited { color: #d4d8dd !important; }
+.site-nav a:hover { color: #a8c5e0 !important; }
+
+/* And keep footer links light */
+.site-footer a { color: #a8c5e0; transition: color 0.2s ease; }
+.site-footer a:visited { color: #a8c5e0; }
+.site-footer a:hover { color: #d4e4f7; }
+
+h1, h2, h3 { color: #1f2933; font-weight: 600; }
+.post-link { color: #1f2933; }
 
 .home-links { margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 1rem; }
 .btn {
@@ -99,6 +112,4 @@ h1, h2, h3 { color: #1f2933; font-weight: 600; }
   padding-bottom: 40px;
   border-top: 1px solid #1f2933;
 }
-.site-footer a { color: #a8c5e0; transition: color 0.2s ease; }
-.site-footer a:hover { color: #d4e4f7; }
 .footer-heading { color: #f5f7fa; font-weight: 600; }

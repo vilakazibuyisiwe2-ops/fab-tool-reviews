@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Home
+title: "Home"
+description: "Straight-talking reviews of welding equipment, fabrication tools, safety gear, and engineering software—from a qualified boilermaker who cares about what works on the job."
 ---
 
 ## Built for people who work with metal
