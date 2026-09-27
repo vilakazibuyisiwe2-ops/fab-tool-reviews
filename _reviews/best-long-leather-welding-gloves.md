@@ -10,7 +10,7 @@ categories: [welding-safety]
 
 Look what I found! 🧤
 
-Long leather gloves. Not the short, floppy ones that leave your wrist bare for sparks to land on. I mean proper gauntlets that cover your forearms. I wish I had known about these in my apprentice years.
+Long leather gloves. Not the short, floppy ones that leave your wrist bare for sparks to land on. I mean proper gauntlets that cover your forearms. I wish I had known about these in my apprentice year[...]
 
 ## Match the glove to the job
 
@@ -38,9 +38,9 @@ Long leather gloves. Not the short, floppy ones that leave your wrist bare for s
 
 Brands worth a look include Lincoln Electric, Tillman, Caiman, Revco and Miller. Browse current options here:
 
-- [Long MIG/stick welding gloves](https://www.amazon.com/s?k=long+leather+welding+gloves+mig+stick&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
-- [TIG welding gloves](https://www.amazon.com/s?k=tig+welding+gloves+goatskin&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
-- [Kevlar-stitched gauntlets](https://www.amazon.com/s?k=kevlar+stitched+welding+gauntlet+gloves&tag=smartfabricat-20){:rel="nofollow sponsored" target="_blank"}
+- <a href="https://www.amazon.com/s?k=long+leather+welding+gloves+mig+stick&tag=smartfabricat-20" rel="nofollow sponsored" target="_blank" style="color: #1d3557 !important; text-decoration: underline;">Long MIG/stick welding gloves</a>
+- <a href="https://www.amazon.com/s?k=tig+welding+gloves+goatskin&tag=smartfabricat-20" rel="nofollow sponsored" target="_blank" style="color: #1d3557 !important; text-decoration: underline;">TIG welding gloves</a>
+- <a href="https://www.amazon.com/s?k=kevlar+stitched+welding+gauntlet+gloves&tag=smartfabricat-20" rel="nofollow sponsored" target="_blank" style="color: #1d3557 !important; text-decoration: underline;">Kevlar-stitched gauntlets</a>
 
 ## Make them last
 
