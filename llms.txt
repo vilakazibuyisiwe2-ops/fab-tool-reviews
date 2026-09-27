@@ -1,0 +1,19 @@
+# Fab & Tool Reviews
+
+This site covers independent reviews of welding equipment, fabrication tools, safety gear, and engineering software for workshop professionals.
+
+## Author
+- Buyisiwe Vilakazi (qualified boilermaker)
+
+## Website
+- https://fabandtoolreviews.com
+
+## Main Topics
+- Welding equipment (MIG, TIG, plasma cutters)
+- Fabrication tools (measuring, cutting, layout)
+- Workshop safety gear
+- Engineering software (CAD, design tools)
+- Buyer's guides and product comparisons
+
+## Content Philosophy
+Honest, hands-on reviews from someone who actually works with metal. Real-world perspective on tools, durability, and cost-effectiveness for tradespeople.
