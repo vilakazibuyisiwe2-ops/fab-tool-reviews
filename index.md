@@ -3,6 +3,28 @@ layout: home
 title: Home
 ---
 
+<style>
+  .home-hero-bg {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background-image: linear-gradient(rgba(8, 12, 18, 0.52), rgba(8, 12, 18, 0.52)), url('{{ "/assets/images/etienne-girardet-sgYamIzhAhg-unsplash.jpg" | relative_url }}');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    pointer-events: none;
+  }
+
+  .home-content {
+    position: relative;
+    z-index: 1;
+  }
+</style>
+
+<div class="home-hero-bg" aria-hidden="true"></div>
+<div class="home-content">
+
 ## Built for people who work with metal
 
 Straight-talking guidance on welding equipment, fabrication tools, safety gear, and engineering software — from a qualified boilermaker who cares about what works on the job.
@@ -42,3 +64,5 @@ Subscribe to the [RSS feed]({{ '/feed.xml' | relative_url }}) for new articles a
 ---
 
 *This site contains affiliate links, including as an Amazon Associate. I earn from qualifying purchases at no extra cost to you.*
+
+</div>
