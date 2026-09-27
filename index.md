@@ -19,6 +19,7 @@ title: Home
   .home-content {
     position: relative;
     z-index: 1;
+    color: #e0e0e0;
   }
 </style>
 
