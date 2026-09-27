@@ -35,37 +35,47 @@ $grey-color-dark: #3a424c;
   background: url("{{ '/assets/images/fab-tool-reviews-mark.svg' | relative_url }}") center / contain no-repeat;
 }
 
-a { color: #7b9fc4; transition: color 0.2s ease; }
-a:hover { color: #a8c5e0; }
+a { color: #a8c5e0; transition: color 0.2s ease; }
+a:visited { color: #b9d2ea; }
+a:hover { color: #d4e4f7; }
 h1, h2, h3 { color: #1f2933; font-weight: 600; }
 .post-link { color: #1f2933; }
+
+.home-content a,
+.home-content a:visited { color: #b9d2ea; }
+.home-content a:hover { color: #ffffff; }
+.home-content h2,
+.home-content h3,
+.home-content .featured-list h3 a,
+.home-content .featured-list h3 a:visited { color: #f5f7fa; }
+.home-content .featured-list h3 a:hover { color: #d4e4f7; }
 
 .home-links { margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 1rem; }
 .btn {
   display: inline-block;
   padding: 0.75rem 1.5rem;
-  border: 1.5px solid #7b9fc4;
+  border: 1.5px solid #a8c5e0;
   border-radius: 6px;
   font-weight: 600;
   text-decoration: none;
-  color: #a8c5e0 !important;
+  color: #d4e4f7 !important;
   transition: all 0.3s ease;
   letter-spacing: 0.3px;
 }
-.btn:hover { 
-  border-color: #a8c5e0; 
-  color: #d4e4f7 !important;
-  background: rgba(120, 159, 196, 0.08);
+.btn:hover {
+  border-color: #ffffff;
+  color: #ffffff !important;
+  background: rgba(168, 197, 224, 0.12);
   transform: translateY(-1px);
 }
-.btn-primary { 
+.btn-primary {
   background: linear-gradient(135deg, #7b9fc4 0%, #6b8fb5 100%);
-  color: #f0f4f8 !important; 
-  border-color: #7b9fc4;
-}
-.btn-primary:hover { 
-  background: linear-gradient(135deg, #a8c5e0 0%, #7b9fc4 100%);
+  color: #ffffff !important;
   border-color: #a8c5e0;
+}
+.btn-primary:hover {
+  background: linear-gradient(135deg, #a8c5e0 0%, #7b9fc4 100%);
+  border-color: #ffffff;
   color: #ffffff !important;
   box-shadow: 0 4px 12px rgba(120, 159, 196, 0.25);
 }

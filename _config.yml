@@ -20,7 +20,6 @@ logo: "/assets/images/fab-tool-reviews-mark.svg"
 
 # Main site navigation.
 header_pages:
-  - posts.md
   - reviews.md
   - education.md
   - about.markdown

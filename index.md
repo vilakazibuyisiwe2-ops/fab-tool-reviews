@@ -8,7 +8,6 @@ title: Home
 Straight-talking guidance on welding equipment, fabrication tools, safety gear, and engineering software — from a qualified boilermaker who cares about what works on the job.
 
 <div class="home-links">
-  <a class="btn" href="{{ '/posts/' | relative_url }}">Read the blog</a>
   <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">Browse reviews</a>
   <a class="btn" href="{{ '/education/' | relative_url }}">Free safety guides</a>
 </div>
