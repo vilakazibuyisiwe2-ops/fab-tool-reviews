@@ -46,7 +46,17 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   background: url("{{ '/assets/images/fab-tool-reviews-mark.svg' | relative_url }}") center / contain no-repeat;
 }
 
-.site-nav { background: transparent; }
+.site-nav {
+    background: #173a5d;
+    border: 1px solid rgba(142, 185, 223, 0.4);
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(14, 33, 52, 0.25);
+    z-index: 10;
+  }
+
+  .site-nav .menu-icon > svg path { fill: #dfeaf8; }
+
+  .site-nav .page-link { padding: 8px 14px; }
 
 .site-nav a,
 .site-nav .page-link {
