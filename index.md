@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Home
+title: "Fab & Tool Reviews: Tool and Gear Reviews for Artisans"
+description: "Honest tool, safety gear and workshop reviews for artisans and tradesmen, from a qualified boilermaker."
 ---
 
 ## Built for people who work with metal
