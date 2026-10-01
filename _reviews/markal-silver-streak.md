@@ -50,7 +50,7 @@ The mechanical version of the Silver-Streak features a rugged, lightweight plast
 ## The Verdict: A Certified Workshop Essential
 If you are still struggling with thick, dusty lines that disappear halfway through a job, it is time to upgrade. The **Markal Silver-Streak** saves layout hours, reduces cutting errors, and keeps your work looking incredibly sharp. It is a tiny investment that pays for itself on your very first precision assembly build.
 
-👉 **[Check Price on Amazon for the Markal Silver-Streak Welders Pencil](YOUR_AFFILIATE_LINK_HERE)**
+👉 **[Check Price on Amazon for the Markal Silver-Streak Welders Pencil](https://amzn.to/4hDkkUO)**
 
 ---
 
