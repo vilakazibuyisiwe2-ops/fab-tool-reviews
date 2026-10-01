@@ -1,29 +1,41 @@
-# Burnout During Shutdowns: The Silent Shutdown of Your Body
+---
+layout: page
+title: "Burnout During Shutdowns: The Silent Shutdown of Your Body"
+date: 2026-09-29
+---
 
 I remember those long hours of hard labour during shutdowns. Shift after shift, no real break in the grind. And somewhere in the middle of it, I could feel my body getting weaker and weaker. My muscles weren't just tired — they were screaming for electrolytes, for vitamins, for anything to keep going. That's not something you forget.
 
 Shutdowns don't ease you in. They demand everything, immediately, and keep demanding it for weeks. And while the deadline doesn't care how your body feels, your body keeps score anyway.
 
-## The Body Doesn't Lie
+---
 
+## The Body Doesn't Lie
 Cramping muscles. Fog where focus used to be. A shortness of temper that wasn't there before. These aren't signs of laziness — they're your body shutting down systems it can't afford to run anymore. Ignore it, and it shuts down harder.
 
-## Eat Clean or Pay Later
+---
 
+## Eat Clean or Pay Later
 Artisans can't run on junk and adrenaline. Clean food, real fuel — protein, vegetables, the basics — keeps you upright when the shift stretches into hour twelve. Sugar and energy drinks spike you and drop you. Real food carries you.
 
-## Water Is the Minimum, Not the Goal
+---
 
+## Water Is the Minimum, Not the Goal
 Drink as much water as your body demands — not as much as you remember to. But water alone isn't the full fix. Sweat takes electrolytes with it, and without replacing them, cramps and crashes follow no matter how much you drink.
 
-## Move Even When You're Tired
+---
 
+## Move Even When You're Tired
 Exercise sounds backwards when you're already drained from a physical job — but stiff, overworked muscles break down faster than muscles kept moving. A little intentional movement on days off is what keeps the body shutdown-ready for the next one.
 
-## The Line Between Tough and Broken
+---
 
+## The Line Between Tough and Broken
 There's a difference between pushing through a hard shift and running your body into the ground. One makes you stronger. The other takes you out — sometimes for good. Shutdowns will always be brutal. Whether you come out the other side intact is up to what you put into your body while you're in it.
 
 ---
 
-Want it shorter and punchier for a social post version too?
+### 💡 SEO Metadata:
+* **Target Primary Keyword:** *preventing burnout during industrial shutdowns*
+* **Secondary Keywords:** *boilermaker physical fatigue, welding shift health tips, artisan fatigue management*
+* **Meta Description:** *Industrial shutdowns demand heavy physical labour. Read a qualified boilermaker's guide on how to protect your body from extreme burnout and fatigue.*
