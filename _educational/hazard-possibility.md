@@ -6,22 +6,22 @@ description: An awareness of near misses and accidents that can happen if grindi
 ---
 # Grinder Safety: What Can Go Wrong in a Second
 
-*(Photo: [pexels-swastikarora-13296066.jpg](pexels-swastikarora-13296066.jpg) — free to use, no strings attached. This isn't a sales pitch, just a lesson from someone who's been there.)*
+![Grinding hazard safety]({{ "/assets/pexels-swastikarora-13296066.jpg" | relative_url }})
 
-Take a look at that photo. A guy grinding steel, sparks flying everywhere — and he's in sandals, bare feet right next to the spark shower, no gloves on the hand holding the work steady. Honestly? I've seen this in workshops more times than I can count. It looks fine until the one time it isn't.
+Take a look at that photo. A guy grinding steel, sparks flying everywhere — and he's in sandals, bare feet right next to the spark shower, no gloves on the hand holding the work steady. Honestly, that's exactly the kind of scene that teaches the lesson faster than a lecture ever could.
 
 ## What could actually go wrong
 
 - **Bare feet in sandals**: Sparks cool as they fly, but they're still hot when they land. One lands on bare skin, you flinch — and now you've moved the grinder mid-cut, which is how things go sideways fast.
-- **No gloves**: If that disc catches or the metal shifts even slightly, your hand is right there with nothing between it and trouble. Gloves won't save you from a disc, but they buy you a half-second, and they matter for the heat and sharp edges too.
-- **The guard**: That little guard on the grinder isn't just there for show — it's what redirects sparks and catches fragments if a disc ever shatters. If it's loose or knocked out of position, you've lost your main line of defense right when you'd need it.
+- **No gloves**: If that disc catches or the metal shifts even slightly, your hand is right there with nothing between it and trouble. Gloves won't save you from a disc, but they buy you a half-second of protection when you need it.
+- **The guard**: That little guard on the grinder isn't just there for show — it's what redirects sparks and catches fragments if a disc ever shatters. If it's loose or knocked out of position, you're working with a machine that has decided to become unpredictable.
 - **Posture and grip**: Solid footing, both hands where they belong. If the disc binds and kicks, your stance decides whether you ride it out or go down with it.
 
 ## Don't do it like I did
 
-I once cut clean through a power cord while grinding in a workshop. Didn't even see it — it was just *there*, in the disc's path, and then there was this loud, explosive bang that about stopped my heart. No warning, no slow build-up. One second everything's normal, the next you're standing there shaking.
+I once cut clean through a power cord while grinding in a workshop. Didn't even see it — it was just *there*, in the disc's path, and then there was this loud, explosive bang that about stopped me in my tracks.
 
-Learn from that one: **make sure your cables are tucked away, and always keep the grinder's own cable behind the grinder, never crossing in front of where you're cutting.** It takes two seconds to check and it's saved me a lot of grief since.
+Learn from that one: **make sure your cables are tucked away, and always keep the grinder's own cable behind the grinder, never crossing in front of where you're cutting.** It takes two seconds to fix and could save you from a very bad day.
 
 ## Quick checklist before you switch it on
 
