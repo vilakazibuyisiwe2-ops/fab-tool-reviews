@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: page
 title: "Long Leather Welding Gloves: A Boilermaker's Best Friend"
 description: "How to choose long leather welding gloves for MIG, TIG and stick: leather types, cuff length, Kevlar stitching and care."
 date: 2026-09-24
