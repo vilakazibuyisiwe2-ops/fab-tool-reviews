@@ -39,13 +39,13 @@ After burning through 2 pairs, here's my cheat sheet:
 - **Breathable lining** — your feet sweat, and sweaty feet blister
 - **Replaceable insole** — this is non-negotiable for me now
 
-Here is an example of a good [![Steel-toe safety boot for boilermaker work]({{ site.baseurl }}/assets/images/boot.jpeg)](https://amzn.to/4AxZWx6).
+Here is an example of a good steel toe boot from Amazon [![Steel-toe safety boot for boilermaker work]({{ site.baseurl }}/assets/images/boot.jpeg)](https://amzn.to/4AxZWx6).
 
 You don't need the most expensive brand. You need boots that let you forget about your feet.
 
 ### My Advice to First-Year Learners
 
-Don't suffer like I did. If your company boots are burning you, save up for the best ones. I switched to heat-resistant [safety boots](https://amzn.to/4AxZWx6) with proper ankle support and added insoles. It made a massive difference.
+Don't suffer like I did. If your company boots are burning you, save up for the best ones. I switched to these heat-resistant [safety boots](https://amzn.to/4AxZWx6) with proper ankle support and added insoles. It made a massive difference.
 
 It's easier to learn to weld when you are not concentrating on the pain in your feet.
 
