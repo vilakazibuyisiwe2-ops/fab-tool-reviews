@@ -1,5 +1,5 @@
 ---
-title: "Best welders' needs in 2026"
+title: Best Budget MIG Welders for Sheet Metal (2026)
 description: "A boilermaker's honest comparison of the best budget-friendly MIG welders for sheet metal work, including specs, pros/cons, and where to buy."
 ---
 
