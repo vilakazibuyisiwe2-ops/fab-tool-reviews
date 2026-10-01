@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "My Feet Were Burning: The Safety Boots That Saved My Boilermaker Apprenticeship"
 date: 2026-09-23
 categories: ["Fabrication Tools", "Boilermaker Tips"]
