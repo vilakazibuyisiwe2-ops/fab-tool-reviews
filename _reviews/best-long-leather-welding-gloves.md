@@ -10,7 +10,7 @@ categories: [welding-safety]
 
 Look what I found! 🧤
 
-Long leather gloves. Not the short, floppy ones that leave your wrist bare for sparks to land on. I mean proper gauntlets that cover your forearms. I wish I had known about these in my apprentice year[...]
+Long leather gloves. Not the short, floppy ones that leave your wrist bare for sparks to land on. I mean proper gauntlets that cover your forearms. I wish I had known about these in my apprentice year[2026]
 
 ## Match the glove to the job
 
