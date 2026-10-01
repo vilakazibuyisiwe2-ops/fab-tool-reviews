@@ -1,3 +1,9 @@
+---
+layout: post
+title: Grinding hazard, near miss, accident possibilities
+date: 2026-09-23
+description: An awareness of near misses and accidents that can happen if grinding related PPE and full operating procedures aren't adhered to.
+---
 # Grinder Safety: What Can Go Wrong in a Second
 
 *(Photo: [pexels-swastikarora-13296066.jpg](pexels-swastikarora-13296066.jpg) — free to use, no strings attached. This isn't a sales pitch, just a lesson from someone who's been there.)*
