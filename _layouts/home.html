@@ -12,10 +12,12 @@ layout: default
     position: fixed;
     inset: 0;
     z-index: -1;
-    background-image: linear-gradient(rgba(5, 8, 12, 0.75), rgba(5, 8, 12, 0.75)), url('{{ "/assets/images/etienne-girardet-sgYamIzhAhg-unsplash.jpg" | relative_url }}');
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background:
+      radial-gradient(circle at top left, rgba(144, 190, 255, 0.38), transparent 24%),
+      radial-gradient(circle at bottom right, rgba(23, 57, 99, 0.52), transparent 30%),
+      linear-gradient(135deg, rgba(7, 16, 26, 0.25), rgba(15, 42, 67, 0.52)),
+      url('{{ "/assets/images/etienne-girardet-sgYamIzhAhg-unsplash.jpg" | relative_url }}') center center / cover no-repeat;
+    filter: saturate(1.1) contrast(1.08);
     opacity: 1;
     pointer-events: none;
   }
@@ -23,25 +25,128 @@ layout: default
   .home-content {
     position: relative;
     z-index: 1;
-    color: #e8eaed;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 3rem 2rem;
+    max-width: 1100px;
+    margin: clamp(1.5rem, 3vw, 3rem) auto 0;
+    padding: clamp(1.5rem, 3vw, 3rem);
+    color: #17314d;
+    background: rgba(245, 249, 255, 0.72);
+    border: 1px solid rgba(134, 175, 226, 0.45);
+    border-radius: 28px;
+    box-shadow: 0 22px 60px rgba(15, 36, 57, 0.16);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
   }
 
   .home-content h2 {
-    font-size: 2.5rem;
+    font-size: clamp(2.3rem, 4vw, 3.2rem);
     font-weight: 300;
-    letter-spacing: -0.5px;
-    margin-bottom: 1.5rem;
-    color: #f5f7fa;
-    line-height: 1.2;
+    letter-spacing: -0.06em;
+    margin: 0 0 1.25rem;
+    color: #122c4a;
+    line-height: 1.08;
+    text-wrap: balance;
+  }
+
+  .home-content > p,
+  .home-content li,
+  .home-content .post-meta,
+  .home-content .post-list {
+    color: #26415d;
   }
 
   .home-content > p {
-    font-size: 1.1rem;
-    line-height: 1.7;
-    color: #d4d8dd;
+    font-size: clamp(1.04rem, 1.5vw, 1.18rem);
+    line-height: 1.75;
+    max-width: 760px;
     margin-bottom: 2rem;
+  }
+
+  .home-content .home-links {
+    margin: 1.5rem 0 2rem;
+  }
+
+  .home-content .btn {
+    border-radius: 12px;
+    padding: 0.9rem 1.5rem;
+    border: 1px solid rgba(31, 88, 166, 0.28);
+    background: rgba(255, 255, 255, 0.42);
+    color: #173b66 !important;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.55);
+  }
+
+  .home-content .btn:hover {
+    background: rgba(149, 193, 244, 0.28);
+    border-color: rgba(31, 88, 166, 0.4);
+    color: #0d2e52 !important;
+    box-shadow: 0 10px 22px rgba(32, 81, 146, 0.12);
+  }
+
+  .home-content .btn-primary {
+    background: linear-gradient(135deg, #234d79 0%, #3e79b8 45%, #6ba2d8 100%);
+    border-color: rgba(24, 76, 142, 0.6);
+    color: #f6fbff !important;
+    box-shadow: 0 12px 24px rgba(35, 89, 156, 0.16);
+  }
+
+  .home-content .btn-primary:hover {
+    background: linear-gradient(135deg, #2b5b8b 0%, #4c8ed6 40%, #7db2ea 100%);
+    color: #ffffff !important;
+  }
+
+  .home-content ul {
+    padding-left: 1.1rem;
+  }
+
+  .home-content .post-list li,
+  .home-content .reviews-list li {
+    background: rgba(255,255,255,0.26);
+    border: 1px solid rgba(128, 167, 216, 0.4);
+    border-radius: 16px;
+    padding: 1rem 1.1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 6px 20px rgba(14, 35, 55, 0.06);
+  }
+
+  .home-content h3 {
+    color: #163754;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.45rem;
+  }
+
+  .home-content a {
+    color: #0c4a8d;
+  }
+
+  .home-content a:hover {
+    color: #0b3e7a;
+  }
+
+  @media screen and (max-width: 600px) {
+    .home-content {
+      margin-top: 1rem;
+      padding: 1.25rem 1rem 1.5rem;
+      border-radius: 20px;
+    }
+
+    .home-content h2 {
+      font-size: clamp(1.8rem, 7.5vw, 2.4rem);
+      letter-spacing: -0.05em;
+    }
+
+    .home-content > p {
+      font-size: 1rem;
+    }
+
+    .home-content .home-links {
+      display: grid;
+      gap: 0.75rem;
+    }
+
+    .home-content .btn {
+      width: 100%;
+      text-align: center;
+      box-sizing: border-box;
+    }
   }
 </style>
