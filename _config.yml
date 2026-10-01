@@ -25,6 +25,7 @@ header_pages:
   - education.md
   - about.markdown
   - contact.markdown
+  - privacy-policy.markdown
   - affiliate-disclosure.md
 
 collections:
