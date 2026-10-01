@@ -9,26 +9,32 @@ $grey-color-dark: #1f3550;
 
 @import "minima";
 
+/* ---------- Base ---------- */
 body {
   background: linear-gradient(180deg, #edf5ff 0%, #e4eefb 18%, #f8fbff 100%);
   color: $text-color;
 }
 
+a { color: #174b8a; transition: color 0.2s ease; }
+a:visited { color: #174b8a; }
+a:hover { color: #0d6ad8; }
+h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
+.post-link { color: #1f2d3d; }
+
+/* ---------- Header ---------- */
 .site-header {
   background: linear-gradient(135deg, #0d1d2d 0%, #173a5d 35%, #234d79 100%);
   border-top: 3px solid #8eb9df;
   border-bottom: 0;
   box-shadow: 0 6px 20px rgba(14, 33, 52, 0.18);
 }
-.site-title, .site-title:visited { color: #f5f9ff; font-weight: 600; letter-spacing: -0.3px; }
-.site-nav a, .site-nav .page-link {
-  color: #dfeaf8 !important;
-  font-weight: 500;
-  opacity: 0.96;
-  transition: color 0.2s ease;
+
+.site-title,
+.site-title:visited {
+  color: #f5f9ff;
+  font-weight: 600;
+  letter-spacing: -0.3px;
 }
-.site-nav { background: transparent; }
-.site-nav a:hover { color: #cfe3ff !important; }
 
 .site-title::before {
   content: "";
@@ -40,15 +46,58 @@ body {
   background: url("{{ '/assets/images/fab-tool-reviews-mark.svg' | relative_url }}") center / contain no-repeat;
 }
 
-a { color: #174b8a; transition: color 0.2s ease; }
-a:visited { color: #174b8a; }
-a:hover { color: #0d6ad8; }
-h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
-.post-link { color: #1f2d3d; }
+.site-nav { background: transparent; }
 
+.site-nav a,
+.site-nav .page-link {
+  color: #dfeaf8 !important;
+  font-weight: 500;
+  opacity: 0.96;
+  transition: color 0.2s ease;
+}
+
+.site-nav a:hover { color: #cfe3ff !important; }
+
+/* Desktop and tablet: centered title, menu in an even row below */
+@media (min-width: 601px) {
+  .site-header { min-height: 0; }
+
+  .site-header .wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1000px;
+    padding: 14px 30px;
+  }
+
+  .site-header .site-title {
+    float: none;
+    margin: 0 0 4px;
+    line-height: 1.3;
+  }
+
+  .site-header .site-nav {
+    float: none;
+    line-height: 1.5;
+  }
+
+  .site-header .site-nav .trigger {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4px 24px;
+  }
+
+  .site-header .site-nav .page-link {
+    margin: 0 !important;
+  }
+}
+
+/* ---------- Home page ---------- */
 .home-content a,
 .home-content a:visited { color: #0d4ea8; }
 .home-content a:hover { color: #0d6ad8; }
+
 .home-content h2,
 .home-content h3,
 .home-content .featured-list h3 a,
@@ -56,6 +105,7 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
 .home-content .featured-list h3 a:hover { color: #0d4ea8; }
 
 .home-links { margin: 2rem 0; display: flex; flex-wrap: wrap; gap: 1rem; }
+
 .btn {
   display: inline-block;
   padding: 0.8rem 1.5rem;
@@ -66,8 +116,9 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   color: #123a63 !important;
   transition: all 0.3s ease;
   letter-spacing: 0.2px;
-  background: rgba(255,255,255,0.32);
+  background: rgba(255, 255, 255, 0.32);
 }
+
 .btn:hover {
   border-color: #1b5ca8;
   color: #0d2f52 !important;
@@ -75,18 +126,21 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   transform: translateY(-1px);
   box-shadow: 0 6px 18px rgba(34, 92, 169, 0.12);
 }
+
 .btn-primary {
   background: linear-gradient(135deg, #2b5d9b 0%, #4a90d9 100%);
   color: #f6fbff !important;
   border-color: rgba(52, 116, 193, 0.8);
   box-shadow: 0 8px 18px rgba(37, 88, 165, 0.18);
 }
+
 .btn-primary:hover {
   background: linear-gradient(135deg, #477fc8 0%, #5d9ae8 100%);
   border-color: rgba(35, 90, 177, 0.9);
   color: #ffffff !important;
   box-shadow: 0 10px 22px rgba(53, 105, 185, 0.22);
 }
+
 .affiliate-note {
   margin: 2rem 0 2.5rem;
   padding: 1.25rem 1.5rem;
@@ -95,11 +149,13 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   border-radius: 8px;
   color: #1c2d3d;
 }
+
 .featured-list li { margin-bottom: 2rem; }
 .featured-list li h3 { margin-bottom: 0.5rem; }
 .featured-list li p { margin: 0.5rem 0; }
 .reviews-list { border-left: 3px solid #4b8dd4; padding-left: 1.5rem; }
 
+/* ---------- Footer ---------- */
 .site-footer {
   background: linear-gradient(180deg, #0e1d2c 0%, #132d45 100%);
   color: #d9e8f8;
@@ -108,11 +164,12 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   padding-bottom: 40px;
   border-top: 1px solid rgba(142, 185, 223, 0.3);
 }
+
 .site-footer a { color: #b9d7ff; transition: color 0.2s ease; }
 .site-footer a:hover { color: #edf5ff; }
 .footer-heading { color: #f2f8ff; font-weight: 600; }
 
-/* Keep articles readable on narrow screens. Tables scroll instead of widening the page. */
+/* ---------- Content (keeps articles readable on small screens) ---------- */
 .page-content,
 .post-content,
 .home-content {
@@ -144,6 +201,7 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   overflow-x: auto;
 }
 
+/* ---------- Phone ---------- */
 @media screen and (max-width: 600px) {
   .wrapper {
     padding-right: 1rem;
@@ -163,9 +221,7 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   }
 
   .page-content,
-  .post-content {
-    font-size: 1rem;
-  }
+  .post-content { font-size: 1rem; }
 
   .page-content h1,
   .post-content h1 {
@@ -181,18 +237,14 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   }
 
   .page-content table,
-  .post-content table {
-    font-size: 0.95rem;
-  }
+  .post-content table { font-size: 0.95rem; }
 
   .home-content {
     padding: 1.5rem 1rem;
     border-radius: 16px;
   }
 
-  .home-content > p {
-    font-size: 1rem;
-  }
+  .home-content > p { font-size: 1rem; }
 
   .home-links {
     display: grid;
@@ -205,11 +257,6 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
     text-align: center;
   }
 
-  .affiliate-note {
-    padding: 1rem;
-  }
-
-  .reviews-list {
-    padding-left: 1rem;
-  }
+  .affiliate-note { padding: 1rem; }
+  .reviews-list { padding-left: 1rem; }
 }
