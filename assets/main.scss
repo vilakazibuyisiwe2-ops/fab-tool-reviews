@@ -240,12 +240,20 @@ h1, h2, h3 { color: #1f2d3d; font-weight: 600; }
   }
 
   .page-content h2,
-  .post-content h2,
-  .home-content h2 {
+  .post-content h2 {
     font-size: clamp(1.4rem, 6vw, 1.8rem);
     line-height: 1.2;
   }
-
+.home-content h2 {
+  font-size: clamp(2.3rem, 4vw, 3.2rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  margin: 0 0 1.25rem;
+  color: #122c4a;
+  line-height: 1.08;
+  text-wrap: balance;
+}
   .page-content table,
   .post-content table { font-size: 0.95rem; }
 
