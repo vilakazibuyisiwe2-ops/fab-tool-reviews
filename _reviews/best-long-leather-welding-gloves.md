@@ -1,9 +1,6 @@
 ---
 layout: page
-title: "Long Leather Welding Gloves: A Boilermaker's Best Friend"
-description: "How to choose long leather welding gloves for MIG, TIG and stick: leather types, cuff length, Kevlar stitching and care."
-date: 2026-09-24
-categories: [welding-safety]
+title: "Best Long Leather Welding Gloves"
 ---
 
 *As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra and helps keep this blog alive.*
@@ -53,3 +50,5 @@ My tip: keep **two pairs**. Thick for MIG, stick and cutting, thin for TIG.
 
 **Before this one:** [The auto-darkening helmet]({{ site.baseurl }}{% post_url 2026-09-24-best-auto-darkening-welding-helmets %})
 **Next up:** [Sparks in your shoe? Shields for your head, feet and face]({{ site.baseurl }}{% post_url 2026-09-24-welding-skul-caps-shoe-shields-face-shields %})
+
+{% include affiliate-notice.html %}

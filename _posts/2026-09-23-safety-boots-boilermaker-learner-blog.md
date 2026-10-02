@@ -51,5 +51,4 @@ It's easier to learn to weld when you are not concentrating on the pain in your 
 
 It's a small investment that makes you a better, safer boilermaker.
 
----
-*This post contains affiliate links. I only recommend tools I have used in my own workshop. I earn from qualifying purchases at no extra cost to you.*
+{% include affiliate-notice.html %}

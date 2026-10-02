@@ -1,47 +1,9 @@
 ---
-layout: post
-title: "Round to Round Pipe Fabrication Drawing: Center Line First (ADHD-Friendly)"
+layout: page
+title: "Round-to-Round Pipe Fabrication Layout"
 date: 2026-09-24
-categories: fabrication-tools
-description: How to draw a round to round pipe joint for fabrication. Step-by-step for N2, with center line method, dividers for ADHD forgetfulness, and tools I use on my drawing board.
+categories: ["Fabrication Tools", "Drawing Tips"]
 ---
-
-Round to round pipe fabrication drawing trips up a lot of apprentices — not because the geometry is hard, but because it's easy to lose your place halfway through. My lecturer taught us round to round properly. I kept failing it because I would forget the first step and start drawing pipes from the edge of the paper.
-
-If you have ADHD forgetfulness like me, you need a hook. My hook was: **CENTER LINE FIRST.**
-
-## First Things First... Draw a CENTER LINE Right Through the Page and Work From the Center
-
-Don't start from the side. Start from the middle.
-
-1.  **Draw a faint horizontal center line** across your A2 paper. Make it long. I draw mine in RED 2H so my brain sees it.
-2.  **Draw vertical center line** where your joint will be. Where they cross = your fabrication center.
-
-Everything for round to round comes from that cross. If you lose your place, come back to the cross.
-
-
-
-![Round to round pipe fabrication drawing showing center line method - red horizontal, blue vertical](/assets/images/round-to-round-center.jpeg)
-
-
-
-## How to Draw Round to Round (Equal Diameter Example - 100mm Both Pipes)
-
-This is the method I used, with checklist so I wouldn't forget:
-
-### Step 1 — Front Elevation with Center Line
-
-Draw main pipe 100mm — 50mm each side of center line. Use dividers, don't try to remember 50mm (see divider trick below).
-
-### Step 2 — Branch Pipe on Center
-
-Branch pipe same 100mm, centered on vertical center line. Where they meet is your joint.
-
-### Step 3 — Plan View / End View — Divide the Pipe
-
-This is where people get lost. In plan, draw a circle 100mm dia. Divide it into 12 equal parts (like a clock). Number them 1-12.
-
-**ADHD hack:** Write numbers BIG around the circle. I used HB for numbers, 2H for lines.
 
 ### Step 4 — Project Lines Down
 
@@ -91,8 +53,6 @@ I tick with pencil. If I'd get distracted, I know where I stopped.
 
 ---
 
-*This site contains affiliate links, including as an Amazon Associate. I earn from qualifying purchases at no extra cost to you.*
-
 **Your turn:** Try drawing 100mm round to round with just center lines and dividers. Take a photo of your 12-point circle and your pierced dots each side of center line — post it below. I will mark it after shift.
 
 ## Round to Round Pipe FAQ
@@ -105,3 +65,5 @@ Draw your center line first — horizontal and vertical — before you draw eith
 
 **Do you need a protractor for round to round pipe drawing?**
 No. Spring dividers do the job faster and more accurately — step them around the circle to mark the 12 divisions instead of guessing angles with a protractor.
+
+{% include affiliate-notice.html %}

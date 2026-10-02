@@ -46,3 +46,4 @@ The ARCCAPTAIN MIG205MP is a 9-in-1: Pulse MIG, Flux Core, Plasma Cut, DC HF, Li
 
 *This post contains affiliate links. If you buy through them, I may earn a small commission at no extra cost to you — it's how I keep testing and writing these guides.*
 
+{% include affiliate-notice.html %}

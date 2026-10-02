@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Sparks in Your Shoe? Welding Skull Caps, Shoe Shields and Face Shields for Gas Cutting"
 description: "Protect your head, chest, feet and face from sparks and slag: welding skull caps, aprons, shoe shields and face shields for gas cutting."
 date: 2026-09-24
@@ -65,3 +65,4 @@ Gas (oxy-fuel) cutting throws sparks and glare but needs a lighter lens than arc
 
 Small gear, big difference. Your future self will thank you.
 
+{% include affiliate-notice.html %}
