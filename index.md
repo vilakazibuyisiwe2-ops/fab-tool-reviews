@@ -18,7 +18,7 @@ Straight-talking guidance on welding equipment, fabrication tools, safety gear, 
 {% assign reviews = site.reviews | sort: "date" | reverse %}
 {% if reviews.size > 0 %}
 <ul class="post-list featured-list reviews-list">
-  {% for review in reviews limit: 4 %}
+  {% for review in reviews limit: 2 %}
     <li>
       <h3><a href="{{ review.url | relative_url }}">{{ review.title | escape }}</a></h3>
       {% if review.date %}<p class="post-meta">{{ review.date | date: "%-d %B %Y" }}</p>{% endif %}
