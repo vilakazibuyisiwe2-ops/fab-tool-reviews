@@ -1,13 +1,12 @@
 ---
 layout: home
-title: "Fab & Tool Reviews: Tool and Gear Reviews for Artisans"
-description: "Honest tool, safety gear and workshop reviews for artisans and tradesmen, from a qualified boilermaker."
+title: "Fabrication & Tools Reviews: Tool and Gear Reviews for Artisans"
+description: "Honest tool, safety gear, workshop reviews and safety precaution guides for artisans and tradesmen, from a qualified boilermaker."
 ---
 
-## Built for people who work with metal
+## Tested by a boilermaker. Trusted on the shop floor
 
-Straight-talking guidance on welding equipment, fabrication tools, safety gear, and engineering software — from a qualified boilermaker who cares about what works on the job.
-
+From the welder to the work boots, find out what's worth buying.
 <div class="home-links">
   <a class="btn btn-primary" href="{{ '/reviews/' | relative_url }}">Browse reviews</a>
   <a class="btn" href="{{ '/education/' | relative_url }}">Free safety guides</a>
@@ -32,10 +31,10 @@ Straight-talking guidance on welding equipment, fabrication tools, safety gear, 
 
 ### Workshop essentials
 
-- **Welding equipment** — MIG, TIG, and plasma cutters
+- **Artisan equipment** — MIG, TIG, and plasma cutters
 - **Fabrication tools** — measuring, cutting, and layout tools
 - **Safety gear** — practical protection for real workshop conditions
-- **CAD and design software** — budget-friendly options for small shops
+- **Workshop Essentials** — budget-friendly options for small shops too
 
 Subscribe to the [RSS feed]({{ '/feed.xml' | relative_url }}) for new articles and reviews.
 
